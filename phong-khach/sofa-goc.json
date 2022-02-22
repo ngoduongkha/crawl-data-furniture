@@ -1,0 +1,380 @@
+[
+	{
+		"ProductBasetId": "3*101806",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa Poppy góc trái vải màu cam",
+		"Size": "D2400/1350 - R830 - C700 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 29900000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/09/sofa_vai_poppy_mau_hong_12_goc_trai-300x200.jpeg",
+			"https://nhaxinh.com/wp-content/uploads/2021/09/cam-hung-he-sang-sofa-poppy35-300x200.jpeg",
+			"https://nhaxinh.com/wp-content/themes/flatsome-child/assets/images/3d_icon.png"
+		],
+		"detailMaterial": [
+			"Chân gỗ - Vải cao cấp"
+		]
+	},
+	{
+		"ProductBasetId": "3*101804",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa Poppy góc phải vải màu cam",
+		"Size": "D2400/1350 - R830 - C700 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 29900000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa_vai_poppy_mau_hong_12-6-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa_vai_poppy_mau_hong-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-1018063-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-101806-13-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Chân gỗ - Vải cao cấp"
+		]
+	},
+	{
+		"ProductBasetId": "3*101545",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa Poppy góc phải vải màu xám",
+		"Size": "D2400/1350 - R830 - C700 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 29900000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-poppy-goc-vai-xam-101545-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/cam-hung-he-sang-sofa-poppy7-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-poppy7-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Chân gỗ - Vải cao cấp"
+		]
+	},
+	{
+		"ProductBasetId": "3*101547",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa Poppy góc trái vải màu xám",
+		"Size": "D2400/1350 - R830 - C700 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 29900000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-poppy-goc-vai-xam-101547-trai-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/cam-hung-he-sang-sofa-poppy6-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-poppy6-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Chân gỗ - Vải cao cấp"
+		]
+	},
+	{
+		"ProductBasetId": "3*101544",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa Poppy góc trái vải màu xanh",
+		"Size": "D2400/1350 - R830 - C700 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 29900000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-poppy-boc-vai-xanh-duong-101544-trai-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-poppy-xanh-4-1-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/12/sofa-poppy-xanh-2-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Chân gỗ - Vải cao cấp"
+		]
+	},
+	{
+		"ProductBasetId": "3*101543",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa Poppy góc phải vải màu xanh",
+		"Size": "D2400/1350 - R830 - C700 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 29900000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-poppy-boc-vai-xanh-duong-101543-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-poppy-xanh-4-1-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/12/sofa-poppy-xanh-2-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Chân gỗ - Vải cao cấp"
+		]
+	},
+	{
+		"ProductBasetId": "3*95865",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa góc phải Poppy hiện đại vải LDN",
+		"Size": "D2500/1700-R900-C800",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 34900000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/95865-sofa-poppt-goc-phai-vai-ldn-hien-dai-5-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/95865-sofa-poppt-goc-phai-vai-ldn-hien-dai-2-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/95865-sofa-poppt-goc-phai-vai-ldn-hien-dai-3-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/95865-sofa-poppt-goc-phai-vai-ldn-hien-dai-4-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Chân gỗ - Vải"
+		]
+	},
+	{
+		"ProductBasetId": "3*101492",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa góc trái – phải Rumba hiện đại vải xanh MB18",
+		"Size": "D2000/1400 - R810 - C750 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 19900000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-rumaba-vai-xanh-hien-dai-101492-6-8-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-rumaba-vai-xanh-hien-dai-101492-6-9-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-rumaba-vai-xanh-hien-dai-101492-5-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-rumaba-vai-xanh-hien-dai-101492-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Khung gỗ bọc vải cao cấp - Chân gỗ sồi"
+		]
+	},
+	{
+		"ProductBasetId": "3*101490",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa góc trái – phải Rumba hiện đại vải MB23",
+		"Size": "D2000/1400 - R810 - C750 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 19900000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/101490-sofa-rumba-goc-trai-phai-hien-dai-boc-vai-2-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/101490-sofa-rumba-goc-trai-phai-hien-dai-boc-vai-3-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-rumba-1-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-rumba-2-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Khung gỗ bọc vải cao cấp - Chân gỗ sồi"
+		]
+	},
+	{
+		"ProductBasetId": "3*91215",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa góc phải Rumba Vải 28",
+		"Size": "D2000/1400 -R810 -C750",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 19900000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-rumba-thay-doi-goc-linh-hoat-boc-vai-hien-dai-91215-4-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-rumba-thay-doi-goc-linh-hoat-boc-vai-hien-dai-91215-5-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa_rumba_91215_2-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa_rumba_91215_3-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Chân gỗ -bọc vải cao cấp"
+		]
+	},
+	{
+		"ProductBasetId": "3*93794",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa góc trái Shadow hiện đại vải Belfast 23 beige",
+		"Size": "D2550/1600- R955- C860mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 29904000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2022/01/12-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2022/01/13-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2022/01/8-2-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2022/01/10-1-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Chân kim loại - Vải cao cấp"
+		]
+	},
+	{
+		"ProductBasetId": "3*99459",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa góc trái Shadow hiện đại vải Belfast 41",
+		"Size": "D2550/1600- R955- C860mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 29904000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa_shadow_goc_trai_belfast_41_l.grey_-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-shadow3-1-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Chân kim loại - Vải cao cấp"
+		]
+	},
+	{
+		"ProductBasetId": "3*99458",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa góc phải Shadow hiện đại vải Belfast 41",
+		"Size": "D2550/1600- R955- C860mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 29904000,
+		"Image": [],
+		"detailMaterial": [
+			"Chân kim loại - Vải cao cấp"
+		]
+	},
+	{
+		"ProductBasetId": "3*93791",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa góc trái Shadow hiện đại vải Belfast 14",
+		"Size": "D2550/1600- R955- C860mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 29904000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-shadow-boc-vai-hien-dai-93791-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/shadow_2-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/shadow_3-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-shadow3-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Chân kim loại - Vải cao cấp"
+		]
+	},
+	{
+		"ProductBasetId": "3*95321",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa góc trái Rap hiện đại vải vàng",
+		"Size": "D2530/1760- R 850- C700 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 29900000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ - Bọc vải cao cấp"
+		]
+	},
+	{
+		"ProductBasetId": "3*95862",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa góc phải Skagen hiện đại vải",
+		"Size": "D2820/1540-R920-C840",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 34900000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa_skagen_vai_3_cho_co_goc_hien_dai_95862_1-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa_skagen_vai_3_cho_co_goc_hien_dai_958622-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa_skagen_vai_3_cho_co_goc_hien_dai_95862_2-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa_skagen_vai_3_cho_co_goc_hien_dai_95862_4-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Chân kim loại - Vải"
+		]
+	},
+	{
+		"ProductBasetId": "3*100204",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa góc trái Pio",
+		"Size": "D2800/1650- R850- C810",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 37583000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-pio-vai-hien-dai-100204-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/11/nha-xinh-phong-khach-pio-hien-dai-1-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Gỗ Beech+ Bọc vải , nệm ngồi & lưng rời"
+		]
+	},
+	{
+		"ProductBasetId": "3*100203",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa góc phải Pio",
+		"Size": "D2800/1650- R850- C810",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 37583000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-pio-vai-hien-dai-100203-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/pio_8_10002-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/pio_5_10002-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Gỗ Beech+ Bọc vải , nệm ngồi & lưng rời"
+		]
+	},
+	{
+		"ProductBasetId": "3*98026",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa góc trái Pio hiện đại vải Atlanta",
+		"Size": "D2800/1650- R850- C810",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 37583000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-pio-boc-vai-atlanta-hien-dai-98026-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/phong-khach-pio94-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Gỗ Beech+ Bọc vải"
+		]
+	},
+	{
+		"ProductBasetId": "3*98072",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Sofa góc phải Pio hiện đại vải Atlanta",
+		"Size": "D2800/1650- R850- C810",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 37583000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/sofa-goc-pio-boc-vai-hien-dai-98072-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/phong-khach-pio93-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/pio_8_1000-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/pio_6_1000-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Gỗ Beech+ Bọc vải"
+		]
+	}
+]

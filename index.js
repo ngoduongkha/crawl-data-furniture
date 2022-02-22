@@ -1,9 +1,8 @@
 const fs = require('fs');
 const puppeter = require('puppeteer');
-const dowloader = require('image-downloader');
-const url = 'https://nhaxinh.com/danh-muc/phong-khach/ghe-thu-gian/';
+const url = 'https://nhaxinh.com/danh-muc/phong-khach/sofa-goc/';
 const path = './phong-khach/';
-const fileName = 'ghe-thu-gian';
+const fileName = 'sofa-goc';
 
 async function saveImage(nameFile, urlLink) {
   try {
@@ -53,8 +52,6 @@ async function main() {
 
     return srcSetAttribute;
   });
-
-  console.log(links);
 
   const database = await Promise.all(
     links.map(async (link) => {

@@ -1,0 +1,310 @@
+[
+	{
+		"ProductBasetId": "3*90504",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy điện Lancer 1PT515 màu COGNAC",
+		"Size": "D950 - R850 - C1030 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 51300000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên 100%"
+		]
+	},
+	{
+		"ProductBasetId": "3*101744",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy điện Lancer 1PT515 – Deep Sage",
+		"Size": "D950 - R850 - C1030 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 47000000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên 100%"
+		]
+	},
+	{
+		"ProductBasetId": "3*93072",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy Lancer 10T515 – Bice Blue",
+		"Size": "D950- R850- C1030 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 39400000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên 100%"
+		]
+	},
+	{
+		"ProductBasetId": "3*100720",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy điện Lancer 1PT515 – Pebble",
+		"Size": "D950 - R850 - C1030 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 42000000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên 100%"
+		]
+	},
+	{
+		"ProductBasetId": "3*100721",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy Lancer 10T515 – Mocca",
+		"Size": "D950- R850- C1030 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 32700000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên"
+		]
+	},
+	{
+		"ProductBasetId": "3*100775",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy Lancer 10T515 – Chestnut",
+		"Size": "D950- R850- C1030 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 32700000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên"
+		]
+	},
+	{
+		"ProductBasetId": "3*102584",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy Dreamtime 10T554 màu Fern",
+		"Size": "D1000 - R1000 - C1080 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 39500000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên 100%"
+		]
+	},
+	{
+		"ProductBasetId": "3*100801",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy điện Dreamtime 1PT554 – Aqua",
+		"Size": "D1000 - R1000 - C1080 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 45000000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên"
+		]
+	},
+	{
+		"ProductBasetId": "3*92349",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy điện Dreamtime 1PT554 – Smoke",
+		"Size": "D1000 - R1000 - C1080 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 46000000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên 100%"
+		]
+	},
+	{
+		"ProductBasetId": "3*100928",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy điện Larson 1PT528 – Pewter",
+		"Size": "D950- R850- C1030 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 47000000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên 100%"
+		]
+	},
+	{
+		"ProductBasetId": "3*67341",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy điện Larson 1PT528 – Cloud",
+		"Size": "D950 - R850 - C1030",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 42000000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò 100%"
+		]
+	},
+	{
+		"ProductBasetId": "3*100761",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy Larson 10T528 – Ash",
+		"Size": "D950- R850- C1030 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 24500000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/ghe-thu-gian-lazboy-10t528-larsonc533150-ash-1000-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/mau-vai-lazboy-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/ghe-lazboy-100761-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/ghe-lazboy-100761-1-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc vải cao cấp"
+		]
+	},
+	{
+		"ProductBasetId": "3*61688",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy Canyon 10T560 – Tan",
+		"Size": "D950- R1040- C1130 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 42000000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên 100%"
+		]
+	},
+	{
+		"ProductBasetId": "3*84464",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy Canyon 10T560 – Fango",
+		"Size": "D950- R1040- C1130 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 37500000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên 100%"
+		]
+	},
+	{
+		"ProductBasetId": "3*44924",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy Canyon 10T560 – Cognac",
+		"Size": "D950 - R1040 - C1130",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 42000000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên 100%"
+		]
+	},
+	{
+		"ProductBasetId": "3*63210",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy Canyon 10T560 – Earth",
+		"Size": "D950 - R1040 - C1130",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 38900000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên 100%"
+		]
+	},
+	{
+		"ProductBasetId": "3*72033",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy Cardinal Tumeric",
+		"Size": "D950 - R850 - C1030 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 31900000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc vải 100% Polyester"
+		]
+	},
+	{
+		"ProductBasetId": "3*100800",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy điện Cardinal 1PT550 – Element",
+		"Size": "D950 - R850 - C1030 mm",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 45000000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên 100%"
+		]
+	},
+	{
+		"ProductBasetId": "3*61754",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy điện Cardinal 1PT550 – Ivory",
+		"Size": "D950 - R850 - C1030",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 45000000,
+		"Image": [],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên 100%"
+		]
+	},
+	{
+		"ProductBasetId": "3*61756",
+		"CategoryId": 5,
+		"BrandId": 1,
+		"MaterialId": 1,
+		"Name": "Ghế Lazboy điện Cardinal 1PT550 – Chestnut",
+		"Size": "D950 - R850 - C1030",
+		"Description": "",
+		"Quantity": 0,
+		"Price": 45000000,
+		"Image": [
+			"https://nhaxinh.com/wp-content/uploads/2021/10/lazboy_1pt550_cardinal_sl714874_chestnut2-300x200.jpg",
+			"https://nhaxinh.com/wp-content/uploads/2021/10/lazboy_1pt550_cardinal_sl714874_chestnut21-300x200.jpg"
+		],
+		"detailMaterial": [
+			"Khung gỗ cao su bọc da bò tự nhiên 100%"
+		]
+	}
+]
