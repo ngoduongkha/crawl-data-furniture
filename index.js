@@ -19,7 +19,7 @@ async function saveImage(nameFile, urlLink) {
 }
 
 function saveObj(fileName, data) {
-  fs.writeFile(`${path}/${fileName}.json`, JSON.stringify(data), () => {
+  fs.writeFile(`${path}/${fileName}.json`, JSON.stringify(data, null, '\t'), () => {
     console.log('generate data successfully');
   });
 }
@@ -90,6 +90,6 @@ async function main() {
   );
 
   await browser.close();
-  console.log(database);
+  saveObj('sofa', database);
 }
 main();
