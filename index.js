@@ -1,8 +1,9 @@
 const fs = require('fs');
 const puppeter = require('puppeteer');
 const dowloader = require('image-downloader');
-const url = 'https://nhaxinh.com/danh-muc/phong-khach/sofa/';
-const path = './phong-khach/sofa/';
+const url = 'https://nhaxinh.com/danh-muc/phong-khach/ghe-thu-gian/';
+const path = './phong-khach/';
+const fileName = 'ghe-thu-gian';
 
 async function saveImage(nameFile, urlLink) {
   try {
@@ -19,9 +20,13 @@ async function saveImage(nameFile, urlLink) {
 }
 
 function saveObj(fileName, data) {
-  fs.writeFile(`${path}/${fileName}.json`, JSON.stringify(data, null, '\t'), () => {
-    console.log('generate data successfully');
-  });
+  fs.writeFile(
+    `${path}/${fileName}.json`,
+    JSON.stringify(data, null, '\t'),
+    () => {
+      console.log('generate data successfully');
+    }
+  );
 }
 
 async function main() {
@@ -58,8 +63,12 @@ async function main() {
 
       const data = await page.evaluate(() => {
         const title = document.querySelector('h1.product-title').innerText;
-        const price = String(
-          document.querySelector('.woocommerce-Price-amount.amount').innerText
+        const price = parseInt(
+          String(
+            document.querySelector('.woocommerce-Price-amount.amount').innerText
+          )
+            .replaceAll(',', '')
+            .replaceAll('₫', '')
         );
         const size = document.querySelector(
           'div.product-attribute.product-attribute-item.product-attribute-item-0 span.product-attribute-option'
@@ -71,6 +80,18 @@ async function main() {
           )
         ).map((e) => e.innerText);
         detailMaterial.shift();
+        const image = Array.from(
+          document.querySelectorAll(
+            '.col.large-2.large-col-first.vertical-thumbnails.pb-0 div.col a img'
+          )
+        )
+          .filter(function (e) {
+            if (e.getAttribute('src').includes('https://')) return true;
+            return false;
+          })
+          .map(function (e) {
+            return e.getAttribute('src');
+          });
         return {
           ProductBasetId: productBaseId,
           CategoryId: 5,
@@ -81,7 +102,7 @@ async function main() {
           Description: '',
           Quantity: 0,
           Price: price,
-          Image: '',
+          Image: image,
           detailMaterial: detailMaterial,
         };
       });
@@ -90,6 +111,6 @@ async function main() {
   );
 
   await browser.close();
-  saveObj('sofa', database);
+  saveObj(fileName, database);
 }
 main();
