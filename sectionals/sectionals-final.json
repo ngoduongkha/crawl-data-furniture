@@ -1,0 +1,278 @@
+[
+	{
+		"name": "Sloan Left Chaise Sleeper Sectional",
+		"product_sku": "SLON.FABRIC.SECT.SSLEFT",
+		"product_price": 3095,
+    "brand_name": "Sloan",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/SLON.FABRIC.SECT.SSLEFT/frames/1/SLON.FABRIC.SECT.SSLEFT.JPG?background=FFFFFF&feature=COLOR:BI-132&feature=FINISH:LEG007-1&feature=CHAISE%20LENGTH:CHAISE-63&feature=CUSHIONS:CUSHION-2&feature=BED:BED_IN",
+		"material_type": [
+			{
+				"name": "Opal",
+				"value": "49556",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-132",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282882_bi-132_perf-textured-weave_opal.jpg",
+				"data_price": 150,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Abyss",
+				"value": "92472",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-134",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635283281_bi-134_perf-textured-weave_abyss.jpg",
+				"data_price": 150,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Pepper",
+				"value": "49558",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-133",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636491418_bi-133_perf-textured-weave_pepper.jpg",
+				"data_price": 150,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Coral",
+				"value": "49554",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 150,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Oiled Walnut",
+				"data_description": "A wood, L-shaped leg formed by two pieces of solid walnut.",
+				"data_sku": "Leg007-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/walnut-2.png"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A wood, L-shaped leg in unfinished white oak.",
+				"data_sku": "Leg007-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/oak-2.png"
+			},
+			{
+				"name": "Matte Black",
+				"data_description": "A wood, L-shaped leg in a matte black finish.",
+				"data_sku": "Leg007-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/painted-2_jpeg_1.jpg"
+			}
+		]
+	},
+  {
+		"name": "Sloan Left Chaise Sectional",
+    "product_sku": "SLON.FABRIC.SECT.CSLEFT",
+		"product_price": 1895,
+    "brand_name": "Sloan",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/SLON.FABRIC.SECT.CSLEFT/frames/1/SLON.FABRIC.SECT.CSLEFT.JPG?background=FFFFFF&feature=COLOR:BI-132&feature=FINISH:LEG001-1&feature=CUSHIONS:CUSHION-2&feature=DEPTH:DEPTH-36&feature=CHAISE%20LENGTH:CHAISE-63&feature=CHAISE%20WIDTH:CHAISEWIDTH-35",
+		"material_type": [
+			{
+				"name": "Opal",
+				"value": "14104",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-132",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282882_bi-132_perf-textured-weave_opal.jpg",
+				"data_price": 150,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Abyss",
+				"value": "92468",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-134",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635283281_bi-134_perf-textured-weave_abyss.jpg",
+				"data_price": 150,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Pepper",
+				"value": "14106",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-133",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636491418_bi-133_perf-textured-weave_pepper.jpg",
+				"data_price": 150,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Coral",
+				"value": "14102",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 150,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Oiled Walnut",
+				"data_description": "A 6",
+				"data_sku": "Leg001-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_oiled_walnut_2.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A 6",
+				"data_sku": "Leg001-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_white_oak_2.jpg"
+			},
+			{
+				"name": "Painted Black",
+				"data_description": "A 6",
+				"data_sku": "Leg001-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_painted_black_2.jpg"
+			}
+		]
+	},
+  {
+		"name": "Sloan Leather 3-Piece U-Sectional",
+    "product_sku": "SLON.LEATHR.SECT.USHAPE",
+		"product_price": 5795,
+    "brand_name": "Sloan",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/SLON.LEATHR.SECT.USHAPE/frames/1/SLON.LEATHR.SECT.USHAPE.JPG?background=FFFFFF&feature=COLOR:2210A&feature=FINISH:LEG008-3&feature=CUSHIONS:CUSHION-2&feature=SOFA%20DEPTH:DEPTH-36",
+		"material_type": [
+			{
+				"name": "Palomino",
+				"value": "26205",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "2210A",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282325_2210a_leather_palomino.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Fossil",
+				"value": "77279",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "LTHR-02",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460822_lthr-02_pigment-dyed-leather_fossil.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Pecan",
+				"value": "26206",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "8519A",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282459_8519a_leather_pecan.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Cognac",
+				"value": "77062",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "LTHR-01",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460763_lthr-01_pigment-dyed-leather_cognac.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Chrome Plated",
+				"data_description": "A stylish, modern metal leg plated in chrome.",
+				"data_sku": "Leg008-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/sloan_metal_legs_chrome-plated_v2.jpg"
+			},
+			{
+				"name": "Brass Plated",
+				"data_description": "A stylish, modern metal leg plated in a beautiful brass.",
+				"data_sku": "Leg008-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/sloan_metal_legs_brass-plated_v2.jpg"
+			},
+			{
+				"name": "Matte Black",
+				"data_description": "A stylish, modern metal leg in a matte black finish.",
+				"data_sku": "Leg008-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/sloan_metal_legs_matte_black_v2.jpg"
+			}
+		]
+	},
+  {
+		"name": "Sloan 4-Seat Left Chaise Sectional",
+    "product_sku": "SLON.FABRIC.SECT.CSLEFT.4SEAT",
+		"product_price": 2695,
+    "brand_name": "Sloan",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/SLON.FABRIC.SECT.CSLEFT.4SEAT/frames/1/SLON.FABRIC.SECT.CSLEFT.4SEAT.JPG?background=FFFFFF&feature=COLOR:BI-132&feature=FINISH:LEG001-1&feature=DEPTH:DEPTH-36&feature=CHAISE%20LENGTH:CHAISE-63&feature=CHAISE%20WIDTH:CHAISEWIDTH-35",
+		"material_type": [
+			{
+				"name": "Opal",
+				"value": "34324",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-132",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282882_bi-132_perf-textured-weave_opal.jpg",
+				"data_price": 150,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Abyss",
+				"value": "92469",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-134",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635283281_bi-134_perf-textured-weave_abyss.jpg",
+				"data_price": 150,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Pepper",
+				"value": "34326",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-133",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636491418_bi-133_perf-textured-weave_pepper.jpg",
+				"data_price": 150,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Coral",
+				"value": "34322",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 150,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Oiled Walnut",
+				"data_description": "A 6",
+				"data_sku": "Leg001-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_oiled_walnut_2.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A 6",
+				"data_sku": "Leg001-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_white_oak_2.jpg"
+			},
+			{
+				"name": "Painted Black",
+				"data_description": "A 6",
+				"data_sku": "Leg001-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_painted_black_2.jpg"
+			}
+		]
+	}
+]

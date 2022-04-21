@@ -1,0 +1,240 @@
+[
+	{
+		"name": "Sloan Ottoman",
+		"product_sku": "SLON.FABRIC.OTTO.STNDRD",
+		"product_price": 495,
+    "brand_name": "Sloan",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/SLON.FABRIC.OTTO.STNDRD/frames/1/SLON.FABRIC.OTTO.STNDRD.JPG?background=FFFFFF&feature=COLOR:BI-132&feature=FINISH:LEG001-1",
+		"material_type": [
+			{
+				"name": "Opal",
+				"value": "15338",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-132",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282882_bi-132_perf-textured-weave_opal.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Abyss",
+				"value": "92456",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-134",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635283281_bi-134_perf-textured-weave_abyss.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Pepper",
+				"value": "15340",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-133",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636491418_bi-133_perf-textured-weave_pepper.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Coral",
+				"value": "15336",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Oiled Walnut",
+				"data_description": "A 6",
+				"data_sku": "Leg001-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_oiled_walnut_2.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A 6",
+				"data_sku": "Leg001-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_white_oak_2.jpg"
+			},
+			{
+				"name": "Painted Black",
+				"data_description": "A 6",
+				"data_sku": "Leg001-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_painted_black_2.jpg"
+			}
+		]
+	},
+	{
+		"name": "Tatum Leather Modular Square Ottoman",
+		"product_sku": "TATM.LEATHR.UNIT.OTTOMAN",
+		"product_price": 1395,
+    "brand_name": "Tatum",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/TATM.LEATHR.UNIT.OTTOMAN/frames/1/TATM.LEATHR.UNIT.OTTOMAN.JPG?background=FFFFFF&feature=COLOR:8519A&feature=STORAGE:CLOSE",
+		"material_type": [
+			{
+				"name": "Pecan",
+				"value": "56854",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "8519A",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282459_8519a_leather_pecan.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Fossil",
+				"value": "77433",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "LTHR-02",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460822_lthr-02_pigment-dyed-leather_fossil.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Palomino",
+				"value": "56853",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "2210A",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282325_2210a_leather_palomino.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Cognac",
+				"value": "77216",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "LTHR-01",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460763_lthr-01_pigment-dyed-leather_cognac.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			}
+		],
+		"legs_type": []
+	},
+	{
+		"name": "Maxwell Ottoman",
+		"product_sku": "MXWL.FABRIC.OTTO.STNDRD",
+		"product_price": 495,
+    "brand_name": "Maxwell",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/MXWL.FABRIC.OTTO.STNDRD/frames/1/MXWL.FABRIC.OTTO.STNDRD.JPG?background=FFFFFF&feature=COLOR:AK-618-16&feature=FINISH:LEG014-3",
+		"material_type": [
+			{
+				"name": "Greige",
+				"value": "24796",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-16",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873297_mod-velvet-greige-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greys,Beiges"
+			},
+			{
+				"name": "Blush",
+				"value": "24799",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-175",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873357_mod-velvet-blush.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Pinks"
+			},
+			{
+				"name": "Citrine",
+				"value": "24802",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-21",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873409_mod-velvet-citrine-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greens,Yellows"
+			},
+			{
+				"name": "Moss",
+				"value": "24803",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-134",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873423_mod-velvet-moss-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Matte Black",
+				"data_description": "A classic, turned leg with modern proportions. ",
+				"data_sku": "Leg014-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_turned_leg_in_matte_black.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A classic, turned leg with modern proportions. ",
+				"data_sku": "Leg014-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/maxwell_oak.jpg"
+			},
+			{
+				"name": "Oiled Walnut",
+				"data_description": "Tapered Turned Leg - Oiled Walnut",
+				"data_sku": "Leg014-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/leg014-3.jpg"
+			}
+		]
+	},
+	{
+		"name": "Colten Round Stool Ottoman",
+		"product_sku": "COLT.FABRIC.OTTO.STNDRD",
+		"product_price": 195,
+    "brand_name": "Colten",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/COLT.FABRIC.OTTO.STNDRD/frames/1/COLT.FABRIC.OTTO.STNDRD.JPG?background=FFFFFF&feature=COLOR:SE-170&feature=SIZE:20",
+		"material_type": [
+			{
+				"name": "Marigold",
+				"value": "85055",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-170",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664921_se-170_perf-velvet_marigold.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Yellows,Oranges"
+			},
+			{
+				"name": "Coral",
+				"value": "85056",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			},
+			{
+				"name": "Rust",
+				"value": "85057",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-167",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,Oranges"
+			},
+			{
+				"name": "Wine",
+				"value": "128270",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-171",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664736_se-171_perf-velvet_wine.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Reds,Purples"
+			}
+		],
+		"legs_type": []
+	}
+]

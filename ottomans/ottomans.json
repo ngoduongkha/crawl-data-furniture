@@ -1,0 +1,50 @@
+[
+	{
+		"name": " Colten Round Stool Ottoman",
+		"data_sku": "var _vwo_custom_magento={\"page_type\":\"product\",\"product_type\":\"simple\",\"product_sku\":\"COLT.FABRIC.OTTO.STNDRD\",\"product_name\":\"Colten\",\"product_price\":195,\"category_name\":\"Ottomans\"};",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/COLT.FABRIC.OTTO.STNDRD/frames/1/COLT.FABRIC.OTTO.STNDRD.JPG?background=FFFFFF&feature=COLOR:SE-170&feature=SIZE:20",
+		"material_type": [
+			{
+				"name": "Marigold",
+				"value": "85055",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-170",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664921_se-170_perf-velvet_marigold.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Yellows,Oranges"
+			},
+			{
+				"name": "Coral",
+				"value": "85056",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			},
+			{
+				"name": "Rust",
+				"value": "85057",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-167",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,Oranges"
+			},
+			{
+				"name": "Wine",
+				"value": "128270",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-171",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664736_se-171_perf-velvet_wine.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Reds,Purples"
+			}
+		],
+		"legs_type": []
+	}
+]

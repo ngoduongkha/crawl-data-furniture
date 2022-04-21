@@ -1,0 +1,69 @@
+[
+	{
+		"name": " Sloan 4-Seat Left Chaise Sectional",
+		"data_sku": "var _vwo_custom_magento={\"page_type\":\"product\",\"product_type\":\"simple\",\"product_sku\":\"SLON.FABRIC.SECT.CSLEFT.4SEAT\",\"product_name\":\"Sloan\",\"product_price\":2695,\"category_name\":\"Sectionals\"};",
+		"image_url": null,
+		"material_type": [
+			{
+				"name": "Opal",
+				"value": "34324",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-132",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282882_bi-132_perf-textured-weave_opal.jpg",
+				"data_price": 150,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Abyss",
+				"value": "92469",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-134",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635283281_bi-134_perf-textured-weave_abyss.jpg",
+				"data_price": 150,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Pepper",
+				"value": "34326",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-133",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636491418_bi-133_perf-textured-weave_pepper.jpg",
+				"data_price": 150,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Coral",
+				"value": "34322",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 150,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Oiled Walnut",
+				"data_description": "A 6",
+				"data_sku": "Leg001-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_oiled_walnut_2.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A 6",
+				"data_sku": "Leg001-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_white_oak_2.jpg"
+			},
+			{
+				"name": "Painted Black",
+				"data_description": "A 6",
+				"data_sku": "Leg001-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_painted_black_2.jpg"
+			}
+		]
+	}
+]

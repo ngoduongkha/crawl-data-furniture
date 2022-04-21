@@ -1,0 +1,69 @@
+[
+	{
+		"name": " Charly Twin Sleeper Sofa",
+		"data_sku": "var _vwo_custom_magento={\"page_type\":\"product\",\"product_type\":\"simple\",\"product_sku\":\"CHLY.FABRIC.SOFA.SSTWIN\",\"product_name\":\"Charly Sleeper\",\"product_price\":1895,\"category_name\":\"Sofas\"};",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/CHLY.FABRIC.SOFA.SSTWIN/frames/1/CHLY.FABRIC.SOFA.SSTWIN.JPG?background=FFFFFF&feature=CUSHIONS:CUSHION-BENCH&feature=BED:BED_IN&feature=COLOR:CW-006&feature=FINISH:LEG007-1",
+		"material_type": [
+			{
+				"name": "Rain",
+				"value": "30831",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355067_cw-006_cross-weave_rain.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Wheat",
+				"value": "30827",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635868302_cw-001_cross-weave_wheat.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams,Beiges"
+			},
+			{
+				"name": "Earth",
+				"value": "30828",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354933_cw-002_cross-weave_earth.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Coral",
+				"value": "30803",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 100,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Oiled Walnut",
+				"data_description": "A wood, L-shaped leg formed by two pieces of solid walnut.",
+				"data_sku": "Leg007-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/walnut-2.png"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A wood, L-shaped leg in unfinished white oak.",
+				"data_sku": "Leg007-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/oak-2.png"
+			},
+			{
+				"name": "Matte Black",
+				"data_description": "A wood, L-shaped leg in a matte black finish.",
+				"data_sku": "Leg007-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/painted-2_jpeg_1.jpg"
+			}
+		]
+	}
+]

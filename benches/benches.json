@@ -1,0 +1,50 @@
+[
+	{
+		"name": " Ines Bench",
+		"data_sku": "var _vwo_custom_magento={\"page_type\":\"product\",\"product_type\":\"simple\",\"product_sku\":\"INES.FABRIC.BENCH.STNDRD\",\"product_name\":\"Ines Bench\",\"product_price\":595,\"category_name\":\"Benches\"};",
+		"image_url": null,
+		"material_type": [
+			{
+				"name": "Chalk",
+				"value": "103624",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-155",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354292_cu-155_heathered-weave_chalk.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Pebble",
+				"value": "103625",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-151",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635353977_cu-151_heathered-weave_pebble.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys,Creams"
+			},
+			{
+				"name": "Azure",
+				"value": "103627",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-152",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354063_cu-152_heathered-weave_azure.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Coal",
+				"value": "103628",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-153",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354151_cu-153_heathered-weave_coal.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			}
+		],
+		"legs_type": []
+	}
+]

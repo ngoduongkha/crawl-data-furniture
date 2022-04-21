@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "query": "node query.js"
   },
   "author": "Ngo Duong Kha",
   "license": "ISC",
   "dependencies": {
     "image-downloader": "^4.0.3",
+    "link-check": "^5.1.0",
     "puppeteer": "^13.3.2"
   }
 }

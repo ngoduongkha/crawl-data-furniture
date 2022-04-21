@@ -1,0 +1,4618 @@
+[
+	{
+		"name": "Maxwell Accent Chair",
+		"product_sku": "MXWL.FABRIC.CHAR.ACCENT",
+		"product_price": 895,
+		"brand_name": "Maxwell",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/MXWL.FABRIC.CHAR.ACCENT/frames/1/MXWL.FABRIC.CHAR.ACCENT.JPG?background=FFFFFF&feature=COLOR:AK-618-16&feature=FINISH:LEG014-3",
+		"material_type": [
+			{
+				"name": "Greige",
+				"value": "16992",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-16",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873297_mod-velvet-greige-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greys,Beiges"
+			},
+			{
+				"name": "Blush",
+				"value": "16995",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-175",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873357_mod-velvet-blush.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Pinks"
+			},
+			{
+				"name": "Citrine",
+				"value": "16998",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-21",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873409_mod-velvet-citrine-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greens,Yellows"
+			},
+			{
+				"name": "Moss",
+				"value": "16999",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-134",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873423_mod-velvet-moss-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Malachite",
+				"value": "17000",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-184",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873436_mod-velvet-malachite.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Narwhal",
+				"value": "16991",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-40",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873206_mod-velvet-narwhal-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greys,Dark Greys"
+			},
+			{
+				"name": "Sapphire",
+				"value": "16993",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-25",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873319_mod-velvet-sapphire.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Bergen Blue",
+				"value": "16994",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-53",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873341_mod-velvet-bergen-blue.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Coral",
+				"value": "16974",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			},
+			{
+				"name": "Rust",
+				"value": "16975",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-167",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,Oranges"
+			},
+			{
+				"name": "Wine",
+				"value": "92865",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-171",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664736_se-171_perf-velvet_wine.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Reds,Purples"
+			},
+			{
+				"name": "Fawn",
+				"value": "93316",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-172",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664855_se-172_perf-velvet_fawn.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Marigold",
+				"value": "16973",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-170",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664921_se-170_perf-velvet_marigold.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Yellows,Oranges"
+			},
+			{
+				"name": "Sage",
+				"value": "93767",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-173",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664968_se-173_perf-velvet_sage.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Peacock",
+				"value": "16971",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-166",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665016_se-166_perf-velvet_peacock.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,Greens"
+			},
+			{
+				"name": "Navy",
+				"value": "16972",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-164",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665079_se-164_perf-velvet_navy.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Sterling",
+				"value": "16970",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-168",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665130_se-168_perf-velvet_sterling.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Platinum",
+				"value": "16967",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-163",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665169_se-163_perf-velvet_platinum.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Cosmic",
+				"value": "16968",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-162",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665222_se-162_perf-velvet_cosmic.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greys,Dark Greys"
+			},
+			{
+				"name": "Ebony",
+				"value": "16969",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-165",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665263_se-165_perf-velvet_ebony.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blacks"
+			},
+			{
+				"name": "Bloom",
+				"value": "57785",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665410_roy-004_perf-plush-velvet_bloom.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Pinks"
+			},
+			{
+				"name": "Camel",
+				"value": "58121",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665438_roy-006_perf-plush-velvet_camel.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Celadon",
+				"value": "91929",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-010",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665480_roy-010_perf-plush-velvet_celadon.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Spruce",
+				"value": "65381",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665521_roy-002_perf-plush-velvet_spruce.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Spa",
+				"value": "91110",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-008",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665560_roy-008_perf-plush-velvet_spa.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,Greens"
+			},
+			{
+				"name": "French",
+				"value": "90615",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-007",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665591_roy-007_perf-plush-velvet_french.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Cobalt",
+				"value": "58457",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665638_roy-001_perf-plush-velvet_cobalt.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Lavender",
+				"value": "91479",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-009",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665680_roy-009_perf-plush-velvet_lavender.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Purples"
+			},
+			{
+				"name": "Mink",
+				"value": "59129",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665709_roy-005_perf-plush-velvet_mink.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Galaxy",
+				"value": "58793",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-003",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665745_roy-003_perf-plush-velvet_galaxy.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Army",
+				"value": "143073",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-034",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665782_hrt-034_perf-brushed-knit_army.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Greens,All Colors"
+			},
+			{
+				"name": "Dusk",
+				"value": "142591",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-027",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665809_hrt-027_perf-brushed-knit_dusk.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Raisin",
+				"value": "144632",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-025",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665836_hrt-025_perf-brushed-knit_raisin.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Purples"
+			},
+			{
+				"name": "Stormy",
+				"value": "144073",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665862_hrt-006_perf-brushed-knit_stormy.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Greys,Dark Greys,All Colors"
+			},
+			{
+				"name": "Blizzard",
+				"value": "145109",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-010",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635274629_hrt-010_perf-brushed-knit_blizzard.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Greys,Creams"
+			},
+			{
+				"name": "Seal",
+				"value": "143555",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635274392_hrt-001_perf-brushed-knit_seal.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Greys,All Colors"
+			},
+			{
+				"name": "Limestone",
+				"value": "107492",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355210_mer-002_perf-antimicrobial-chenille_limestone.jpg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,All Colors,Creams"
+			},
+			{
+				"name": "Bone",
+				"value": "147179",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636594781_1635276170_mer-006_perf-antimicrobial-chenille_bone-update.jpeg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "All Colors,Creams,Beiges"
+			},
+			{
+				"name": "Marble",
+				"value": "106724",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355143_mer-001_perf-antimicrobial-chenille_marble.jpg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,All Colors,Creams"
+			},
+			{
+				"name": "Boulder",
+				"value": "149343",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635461473_mer-005_perf-antimicrobial-chenille_boulder.jpeg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,Dark Greys,All Colors,Blacks"
+			},
+			{
+				"name": "Cement",
+				"value": "106001",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-003",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355276_mer-003_perf-antimicrobial-chenille_cement.jpg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,All Colors,Creams"
+			},
+			{
+				"name": "Harbour",
+				"value": "149861",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635461372_mer-004_perf-antimicrobial-chenille_harbour.jpeg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Auburn",
+				"value": "104623",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-011",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460435_cov-011_perf-vintage-velvet_auburn.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Oranges"
+			},
+			{
+				"name": "Ivy",
+				"value": "63363",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-007",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460391_cov-007_perf-vintage-velvet_ivy.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Scuba",
+				"value": "104351",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460330_cov-005_perf-vintage-velvet_scuba.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Lagoon",
+				"value": "119105",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460281_cov-004_perf-vintage-velvet_lagoon.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Blanc",
+				"value": "118647",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-025",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460611_cov-025_perf-vintage-velvet_blanc.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Wolf",
+				"value": "118186",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-019",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460535_cov-019_perf-vintage-velvet_wolf.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Slate",
+				"value": "64035",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-030",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460655_cov-030_perf-vintage-velvet_slate.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,Dark Greys"
+			},
+			{
+				"name": "Mocha",
+				"value": "63699",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-017",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460486_cov-017_perf-vintage-velvet_mocha.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Porcelain",
+				"value": "148841",
+				"data_description": "Performance Classic Weave",
+				"data_sku": "CAS-011",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635272908_cas-011_perf-classic-weave_porcelain.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "All Colors,Creams"
+			},
+			{
+				"name": "Bisque",
+				"value": "140629",
+				"data_description": "Performance Classic Weave",
+				"data_sku": "CAS-010",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635270484_cas-010_perf-classic-weave_bisque.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "All Colors,Creams,Beiges"
+			},
+			{
+				"name": "Cove",
+				"value": "141606",
+				"data_description": "Performance Classic Weave",
+				"data_sku": "CAS-016",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635273032_cas-002_perf-classic-weave_cove.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys,Dark Greys,All Colors"
+			},
+			{
+				"name": "Pearl",
+				"value": "46009",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-012",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450734_per-012_perf-basket-weave_pearl.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Sand",
+				"value": "46078",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-026",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450804_per-026_perf-basket-weave_sand.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams,Beiges"
+			},
+			{
+				"name": "Honey",
+				"value": "45740",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-029",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450875_per-029_perf-basket-weave_honey.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Yellows,Oranges"
+			},
+			{
+				"name": "Eggplant",
+				"value": "45471",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-038",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635456972_per-038_perf-basket-weave_eggplant.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Reds,Purples"
+			},
+			{
+				"name": "Seafoam",
+				"value": "47380",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-007",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450641_per-007_perf-basket-weave_seafoam.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys,Greens"
+			},
+			{
+				"name": "Iron",
+				"value": "46552",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635538444_per-001_perf-basket-weave_iron.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Wave",
+				"value": "46821",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-043",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457040_per-043_perf-basket-weave_wave.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Nimbus",
+				"value": "47085",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450567_per-004_perf-basket-weave_nimbus.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Bayou",
+				"value": "146332",
+				"data_description": "Performance Vintage Plush",
+				"data_sku": "PD-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635275453_pd-001_perf-vintage-plush_bayou.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens,All Colors"
+			},
+			{
+				"name": "Juniper",
+				"value": "150906",
+				"data_description": "Performance Vintage Plush",
+				"data_sku": "PD-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635275879_pd-002_perf-vintage-plush_juniper.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Sandstone",
+				"value": "63027",
+				"data_description": "Performance Tweed",
+				"data_sku": "OMNI-010",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356261_omni-010_perf-tweed_sandstone.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Midnight",
+				"value": "62691",
+				"data_description": "Performance Tweed",
+				"data_sku": "OMNI-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355969_omni-005_perf-tweed_midnight.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Blues,Dark Greys"
+			},
+			{
+				"name": "Eclipse",
+				"value": "62355",
+				"data_description": "Performance Tweed",
+				"data_sku": "OMNI-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355903_omni-004_perf-tweed_eclipse.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Browns,Dark Greys"
+			},
+			{
+				"name": "Alabaster",
+				"value": "104894",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-032",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457223_gia-032_perf-linen-weave_alabaster.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Biscotti",
+				"value": "59663",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-035",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458103_gia-035_perf-linen-weave_biscotti.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Amber",
+				"value": "105166",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-020",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458034_gia-020_perf-linen-weave_amber.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Browns,Yellows,Oranges"
+			},
+			{
+				"name": "Rose",
+				"value": "64802",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-040",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458167_gia-040_perf-linen-weave_rose.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Pinks"
+			},
+			{
+				"name": "Olive",
+				"value": "110974",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-008",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457298_gia-008_perf-linen-weave_olive.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Topaz",
+				"value": "142109",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635273155_gia-005_perf-linen-weave_topaz.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Currant",
+				"value": "59999",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-015",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457964_gia-015_perf-linen-weave_currant.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Reds"
+			},
+			{
+				"name": "Snow",
+				"value": "16987",
+				"data_description": "Bouclé",
+				"data_sku": "WOO-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356325_woo-001_boucle_snow.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Champagne",
+				"value": "160006",
+				"data_description": "Performance Loop Weave",
+				"data_sku": "AM-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635276306_am-002_performance-loop-weave_champagne.jpg",
+				"data_price": 75,
+				"data_material": "Bouclé",
+				"data_color": "All Colors,Creams,Beiges"
+			},
+			{
+				"name": "Gull",
+				"value": "160254",
+				"data_description": "Performance Loop Weave",
+				"data_sku": "AM-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635277101_am-001_performance-loop-weave_gull.jpg",
+				"data_price": 75,
+				"data_material": "Bouclé",
+				"data_color": "Greys,All Colors"
+			},
+			{
+				"name": "Goldenrod",
+				"value": "159831",
+				"data_description": "Performance Loop Weave",
+				"data_sku": "AM-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635277003_am-004_performance-loop-weave_goldenrod.jpg",
+				"data_price": 75,
+				"data_material": "Bouclé",
+				"data_color": "All Colors,Yellows"
+			},
+			{
+				"name": "Thunder",
+				"value": "159583",
+				"data_description": "Performance Loop Weave",
+				"data_sku": "AM-003",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635276911_am-003_performance-loop-weave_thunder.jpg",
+				"data_price": 75,
+				"data_material": "Bouclé",
+				"data_color": "Dark Greys,All Colors,Blacks"
+			},
+			{
+				"name": "Copper",
+				"value": "160518",
+				"data_description": "Performance Blakely",
+				"data_sku": "WH-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635278151_wh-002_performance-blakely_copper.jpg",
+				"data_price": 75,
+				"data_material": "Woven",
+				"data_color": "Browns,Reds,All Colors,Oranges"
+			},
+			{
+				"name": "Ginger",
+				"value": "161270",
+				"data_description": "Performance Blakely",
+				"data_sku": "WH-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635279597_wh-004_performance-blakely_ginger.jpg",
+				"data_price": 75,
+				"data_material": "Woven",
+				"data_color": "Browns,All Colors,Yellows,Oranges"
+			},
+			{
+				"name": "Atlantic",
+				"value": "160894",
+				"data_description": "Performance Blakely",
+				"data_sku": "WH-003",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635279466_wh-003_performance-blakely_atlantic.jpg",
+				"data_price": 75,
+				"data_material": "Woven",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Obsidian",
+				"value": "161646",
+				"data_description": "Performance Blakely",
+				"data_sku": "WH-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635279746_wh-005_performance-blakely_obsidian.jpg",
+				"data_price": 75,
+				"data_material": "Woven",
+				"data_color": "Greys,Dark Greys,All Colors,Blacks"
+			},
+			{
+				"name": "Silver",
+				"value": "162022",
+				"data_description": "Performance Blakely",
+				"data_sku": "WH-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635278064_wh-001_performance-blakely_silver.jpg",
+				"data_price": 75,
+				"data_material": "Woven",
+				"data_color": "Greys,All Colors"
+			},
+			{
+				"name": "Denim",
+				"value": "155056",
+				"data_description": "Performance Hunt Stripe",
+				"data_sku": "HS-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635963343_hs-002_performance-hunt-stripe_denim.jpg",
+				"data_price": 75,
+				"data_material": "Woven",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Raven",
+				"value": "155332",
+				"data_description": "Performance Hunt Stripe",
+				"data_sku": "HS-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635962814_hs-001_performance-hunt-stripe_raven.jpg",
+				"data_price": 75,
+				"data_material": "Woven",
+				"data_color": "Dark Greys,All Colors,Blacks"
+			},
+			{
+				"name": "Frost",
+				"value": "61011",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-006",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859771_slub-weave-frost-2.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Mineral",
+				"value": "61444",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-001",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859786_slub-weave-mineral.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Shark",
+				"value": "62019",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-002",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859805_slub-weave-shark.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "River",
+				"value": "61606",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-020",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859834_slub-weave-river.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Driftwood",
+				"value": "60675",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-014",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859818_slub-weave-driftwood.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Cloud",
+				"value": "53435",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-027",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356690_sma-027_perf-heavy-knit_cloud.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Polar",
+				"value": "162419",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-024",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636674386_sma-024_perf-heavy-knit_polar.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "All Colors,Creams"
+			},
+			{
+				"name": "Carbon",
+				"value": "47811",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-029",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356451_sma-029_perf-heavy-knit_carbon.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Space",
+				"value": "53720",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-030",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356588_sma-030_perf-heavy-knit_space.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Chalk",
+				"value": "16976",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-155",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354292_cu-155_heathered-weave_chalk.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Pebble",
+				"value": "16977",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-151",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635353977_cu-151_heathered-weave_pebble.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys,Creams"
+			},
+			{
+				"name": "Azure",
+				"value": "16980",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-152",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354063_cu-152_heathered-weave_azure.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Coal",
+				"value": "16981",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-153",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354151_cu-153_heathered-weave_coal.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Oatmeal",
+				"value": "16978",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-154",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354219_cu-154_heathered-weave_oatmeal.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Silver Pine",
+				"value": "64303",
+				"data_description": "Heathered Weave",
+				"data_sku": "CB-158",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635283403_cb-158_heathered-weave_silver-pine.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Haze",
+				"value": "139969",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635275745_pw-006_perf-pebble-knit_haze.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys,All Colors"
+			},
+			{
+				"name": "Dove",
+				"value": "50494",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458254_pw-001_perf-pebble-knit_dove.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Lead",
+				"value": "146020",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635275335_pw-002_perf-pebble-knit_lead.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys,Dark Greys"
+			},
+			{
+				"name": "Fern",
+				"value": "107178",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458446_pw-005_perf-pebble-knit_fern.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greens,All Colors"
+			},
+			{
+				"name": "Oat",
+				"value": "16989",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458349_pw-004_perf-pebble-knit_oat.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Ecru",
+				"value": "17024",
+				"data_description": "Monochromatic Plush",
+				"data_sku": "OTE-sunday-39",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355581_ote-sunday-39_monochromatic-plush_ecru.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Forest",
+				"value": "17030",
+				"data_description": "Monochromatic Plush",
+				"data_sku": "OTE-sunday-103",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355524_ote-sunday-103_monochromatic-plush_forest.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Union",
+				"value": "17026",
+				"data_description": "Monochromatic Plush",
+				"data_sku": "OTE-sunday-53",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355829_ote-sunday-53_monochromatic-plush_union.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Opal",
+				"value": "16961",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-132",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282882_bi-132_perf-textured-weave_opal.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Abyss",
+				"value": "92415",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-134",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635283281_bi-134_perf-textured-weave_abyss.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Pepper",
+				"value": "16963",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-133",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636491418_bi-133_perf-textured-weave_pepper.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Sisal",
+				"value": "16960",
+				"data_description": "Vintage Plush",
+				"data_sku": "I-73338-102",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635523398_i-73338-102_vintage-plush_sisal.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Nickel",
+				"value": "16958",
+				"data_description": "Vintage Plush",
+				"data_sku": "I-73338-101",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635523326_i-73338-101_vintage-plush_nickel.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Pewter",
+				"value": "16959",
+				"data_description": "Vintage Plush",
+				"data_sku": "I-73338-107",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635869113_i-73338-107_vintage-plush_pewter.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Buy Now",
+				"value": "16990",
+				"data_description": "Decide fabric later",
+				"data_sku": "select-fabric-later",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1634751770_bndl_swatch.jpeg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "All Colors"
+			},
+			{
+				"name": "Wheat",
+				"value": "17007",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635868302_cw-001_cross-weave_wheat.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams,Beiges"
+			},
+			{
+				"name": "Earth",
+				"value": "17008",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354933_cw-002_cross-weave_earth.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Rain",
+				"value": "17011",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355067_cw-006_cross-weave_rain.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Flax",
+				"value": "16956",
+				"data_description": "Performance Crosshatch",
+				"data_sku": "I-N32326-101",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354357_i-n32326-101_perf-crosshatch_flax.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Fog",
+				"value": "16957",
+				"data_description": "Performance Crosshatch",
+				"data_sku": "I-N32326-103",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354799_i-n32326-103_perf-crosshatch_fog.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Cirrus",
+				"value": "16984",
+				"data_description": "Fleck",
+				"data_sku": "OTE-surrey-2",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635870721_ote-surrey-2_fleck_cirrus.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Matte Black",
+				"data_description": "A classic, turned leg with modern proportions. ",
+				"data_sku": "Leg014-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_turned_leg_in_matte_black.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A classic, turned leg with modern proportions. ",
+				"data_sku": "Leg014-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/maxwell_oak.jpg"
+			},
+			{
+				"name": "Oiled Walnut",
+				"data_description": "Tapered Turned Leg - Oiled Walnut",
+				"data_sku": "Leg014-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/leg014-3.jpg"
+			},
+			{
+				"name": "Oiled Walnut",
+				"data_description": "A 6",
+				"data_sku": "Leg001-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_oiled_walnut_2.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A 6",
+				"data_sku": "Leg001-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_white_oak_2.jpg"
+			},
+			{
+				"name": "Painted Black",
+				"data_description": "A 6",
+				"data_sku": "Leg001-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_painted_black_2.jpg"
+			},
+			{
+				"name": "Chrome Plated",
+				"data_description": "A stylish, modern metal leg plated in chrome.",
+				"data_sku": "Leg008-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/sloan_metal_legs_chrome-plated_v2.jpg"
+			},
+			{
+				"name": "Brass Plated",
+				"data_description": "A stylish, modern metal leg plated in a beautiful brass.",
+				"data_sku": "Leg008-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/sloan_metal_legs_brass-plated_v2.jpg"
+			},
+			{
+				"name": "Matte Black",
+				"data_description": "A stylish, modern metal leg in a matte black finish.",
+				"data_sku": "Leg008-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/sloan_metal_legs_matte_black_v2.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A 6",
+				"data_sku": "Leg002-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_square_wood_legs_white_oak_2.jpg"
+			},
+			{
+				"name": "Painted Black",
+				"data_description": "A 6",
+				"data_sku": "Leg002-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_square_wood_legs_painted_black_1.jpg"
+			},
+			{
+				"name": "Oiled Walnut",
+				"data_description": "A 6",
+				"data_sku": "Leg002-4",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_square_wood_legs_oiled_walnut_1.jpg"
+			},
+			{
+				"name": "Oiled Walnut with Brass Cap",
+				"data_description": "Stiletto wood leg made of solid walnut with brass cap.",
+				"data_sku": "Leg016-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/chesterfield_leg.jpg"
+			},
+			{
+				"name": "Natural Oak with Antique Cap",
+				"data_description": "Stiletto wood leg made of solid natural oak with brass cap.",
+				"data_sku": "Leg016-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/interior-define-stilletto-leg-white-oak-antique-cap.jpg"
+			},
+			{
+				"name": "Matte Black with Brass Cap",
+				"data_description": "Stiletto leg made of solid wood with brass cap.",
+				"data_sku": "Leg016-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/interior-define-stilletto-leg-matte-black-brass-cap.jpg"
+			},
+			{
+				"name": "Brushed Nickel-Plated",
+				"data_description": "A 6",
+				"data_sku": "Leg009-4",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_metal_legs_brushed_1.jpg"
+			},
+			{
+				"name": "Brass Plated",
+				"data_description": "A 6",
+				"data_sku": "Leg009-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_metal_legs_brass-plated_1.jpg"
+			},
+			{
+				"name": "Unfinished GunMetal",
+				"data_description": "A 6",
+				"data_sku": "Leg009-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_metal_legs_raw_finish_1.jpg"
+			}
+		]
+	},
+	{
+		"name": "Maxwell Slipcovered Accent Chair",
+		"product_sku": "MXWL.SLPCOV.CHAR.ACCENT",
+		"product_price": 895,
+		"brand_name": "Maxwell",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/MXWL.SLPCOV.CHAR.ACCENT/frames/1/MXWL.SLPCOV.CHAR.ACCENT.JPG?background=FFFFFF&feature=COLOR:CW-001&feature=FINISH:LEG016-1",
+		"material_type": [
+			{
+				"name": "Wheat",
+				"value": "17069",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635868302_cw-001_cross-weave_wheat.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams,Beiges"
+			},
+			{
+				"name": "Earth",
+				"value": "17070",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354933_cw-002_cross-weave_earth.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Rain",
+				"value": "17073",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355067_cw-006_cross-weave_rain.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Limestone",
+				"value": "153683",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355210_mer-002_perf-antimicrobial-chenille_limestone.jpg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,All Colors,Creams"
+			},
+			{
+				"name": "Bone",
+				"value": "153791",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636594781_1635276170_mer-006_perf-antimicrobial-chenille_bone-update.jpeg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "All Colors,Creams,Beiges"
+			},
+			{
+				"name": "Marble",
+				"value": "153656",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355143_mer-001_perf-antimicrobial-chenille_marble.jpg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,All Colors,Creams"
+			},
+			{
+				"name": "Boulder",
+				"value": "153764",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635461473_mer-005_perf-antimicrobial-chenille_boulder.jpeg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,Dark Greys,All Colors,Blacks"
+			},
+			{
+				"name": "Cement",
+				"value": "153710",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-003",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355276_mer-003_perf-antimicrobial-chenille_cement.jpg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,All Colors,Creams"
+			},
+			{
+				"name": "Harbour",
+				"value": "153737",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635461372_mer-004_perf-antimicrobial-chenille_harbour.jpeg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Auburn",
+				"value": "153506",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-011",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460435_cov-011_perf-vintage-velvet_auburn.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Oranges"
+			},
+			{
+				"name": "Ivy",
+				"value": "153476",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-007",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460391_cov-007_perf-vintage-velvet_ivy.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Scuba",
+				"value": "153539",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460330_cov-005_perf-vintage-velvet_scuba.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Lagoon",
+				"value": "153569",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460281_cov-004_perf-vintage-velvet_lagoon.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Blanc",
+				"value": "153626",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-025",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460611_cov-025_perf-vintage-velvet_blanc.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Wolf",
+				"value": "153596",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-019",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460535_cov-019_perf-vintage-velvet_wolf.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Slate",
+				"value": "153446",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-030",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460655_cov-030_perf-vintage-velvet_slate.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,Dark Greys"
+			},
+			{
+				"name": "Mocha",
+				"value": "153413",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-017",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460486_cov-017_perf-vintage-velvet_mocha.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Porcelain",
+				"value": "148842",
+				"data_description": "Performance Classic Weave",
+				"data_sku": "CAS-011",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635272908_cas-011_perf-classic-weave_porcelain.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "All Colors,Creams"
+			},
+			{
+				"name": "Bisque",
+				"value": "140630",
+				"data_description": "Performance Classic Weave",
+				"data_sku": "CAS-010",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635270484_cas-010_perf-classic-weave_bisque.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "All Colors,Creams,Beiges"
+			},
+			{
+				"name": "Cove",
+				"value": "141607",
+				"data_description": "Performance Classic Weave",
+				"data_sku": "CAS-016",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635273032_cas-002_perf-classic-weave_cove.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys,Dark Greys,All Colors"
+			},
+			{
+				"name": "Pearl",
+				"value": "47424",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-012",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450734_per-012_perf-basket-weave_pearl.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Sand",
+				"value": "47442",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-026",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450804_per-026_perf-basket-weave_sand.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams,Beiges"
+			},
+			{
+				"name": "Honey",
+				"value": "47406",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-029",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450875_per-029_perf-basket-weave_honey.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Yellows,Oranges"
+			},
+			{
+				"name": "Eggplant",
+				"value": "47388",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-038",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635456972_per-038_perf-basket-weave_eggplant.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Reds,Purples"
+			},
+			{
+				"name": "Seafoam",
+				"value": "47514",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-007",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450641_per-007_perf-basket-weave_seafoam.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys,Greens"
+			},
+			{
+				"name": "Iron",
+				"value": "47460",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635538444_per-001_perf-basket-weave_iron.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Wave",
+				"value": "47478",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-043",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457040_per-043_perf-basket-weave_wave.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Nimbus",
+				"value": "47496",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450567_per-004_perf-basket-weave_nimbus.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Sandstone",
+				"value": "75919",
+				"data_description": "Performance Tweed",
+				"data_sku": "OMNI-010",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356261_omni-010_perf-tweed_sandstone.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Midnight",
+				"value": "75937",
+				"data_description": "Performance Tweed",
+				"data_sku": "OMNI-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355969_omni-005_perf-tweed_midnight.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Blues,Dark Greys"
+			},
+			{
+				"name": "Eclipse",
+				"value": "75901",
+				"data_description": "Performance Tweed",
+				"data_sku": "OMNI-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355903_omni-004_perf-tweed_eclipse.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Browns,Dark Greys"
+			},
+			{
+				"name": "Alabaster",
+				"value": "105300",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-032",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457223_gia-032_perf-linen-weave_alabaster.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Biscotti",
+				"value": "75857",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-035",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458103_gia-035_perf-linen-weave_biscotti.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Amber",
+				"value": "105321",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-020",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458034_gia-020_perf-linen-weave_amber.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Browns,Yellows,Oranges"
+			},
+			{
+				"name": "Rose",
+				"value": "75875",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-040",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458167_gia-040_perf-linen-weave_rose.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Pinks"
+			},
+			{
+				"name": "Olive",
+				"value": "110980",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-008",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457298_gia-008_perf-linen-weave_olive.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Topaz",
+				"value": "166392",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635273155_gia-005_perf-linen-weave_topaz.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Currant",
+				"value": "75839",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-015",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457964_gia-015_perf-linen-weave_currant.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Reds"
+			},
+			{
+				"name": "Frost",
+				"value": "75767",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-006",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859771_slub-weave-frost-2.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Mineral",
+				"value": "75731",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-001",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859786_slub-weave-mineral.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Shark",
+				"value": "75749",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-002",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859805_slub-weave-shark.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "River",
+				"value": "75803",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-020",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859834_slub-weave-river.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Driftwood",
+				"value": "75785",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-014",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859818_slub-weave-driftwood.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Cloud",
+				"value": "53459",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-027",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356690_sma-027_perf-heavy-knit_cloud.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Carbon",
+				"value": "47532",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-029",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356451_sma-029_perf-heavy-knit_carbon.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Space",
+				"value": "53744",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-030",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356588_sma-030_perf-heavy-knit_space.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Chalk",
+				"value": "17050",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-155",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354292_cu-155_heathered-weave_chalk.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Pebble",
+				"value": "17051",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-151",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635353977_cu-151_heathered-weave_pebble.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys,Creams"
+			},
+			{
+				"name": "Azure",
+				"value": "17054",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-152",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354063_cu-152_heathered-weave_azure.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Coal",
+				"value": "17055",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-153",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354151_cu-153_heathered-weave_coal.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Oatmeal",
+				"value": "17052",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-154",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354219_cu-154_heathered-weave_oatmeal.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Silver Pine",
+				"value": "64311",
+				"data_description": "Heathered Weave",
+				"data_sku": "CB-158",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635283403_cb-158_heathered-weave_silver-pine.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Dove",
+				"value": "50495",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458254_pw-001_perf-pebble-knit_dove.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Fern",
+				"value": "137905",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458446_pw-005_perf-pebble-knit_fern.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greens,All Colors"
+			},
+			{
+				"name": "Oat",
+				"value": "17059",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458349_pw-004_perf-pebble-knit_oat.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Ecru",
+				"value": "17061",
+				"data_description": "Monochromatic Plush",
+				"data_sku": "OTE-sunday-39",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355581_ote-sunday-39_monochromatic-plush_ecru.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Forest",
+				"value": "17067",
+				"data_description": "Monochromatic Plush",
+				"data_sku": "OTE-sunday-103",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355524_ote-sunday-103_monochromatic-plush_forest.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Union",
+				"value": "17063",
+				"data_description": "Monochromatic Plush",
+				"data_sku": "OTE-sunday-53",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355829_ote-sunday-53_monochromatic-plush_union.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Opal",
+				"value": "17074",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-132",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282882_bi-132_perf-textured-weave_opal.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Abyss",
+				"value": "137925",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-134",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635283281_bi-134_perf-textured-weave_abyss.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Pepper",
+				"value": "17076",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-133",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636491418_bi-133_perf-textured-weave_pepper.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Sisal",
+				"value": "17079",
+				"data_description": "Vintage Plush",
+				"data_sku": "I-73338-102",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635523398_i-73338-102_vintage-plush_sisal.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Nickel",
+				"value": "17077",
+				"data_description": "Vintage Plush",
+				"data_sku": "I-73338-101",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635523326_i-73338-101_vintage-plush_nickel.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Pewter",
+				"value": "17078",
+				"data_description": "Vintage Plush",
+				"data_sku": "I-73338-107",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635869113_i-73338-107_vintage-plush_pewter.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Buy Now",
+				"value": "17060",
+				"data_description": "Decide fabric later",
+				"data_sku": "select-fabric-later",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1634751770_bndl_swatch.jpeg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "All Colors"
+			},
+			{
+				"name": "Flax",
+				"value": "17080",
+				"data_description": "Performance Crosshatch",
+				"data_sku": "I-N32326-101",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354357_i-n32326-101_perf-crosshatch_flax.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Fog",
+				"value": "17081",
+				"data_description": "Performance Crosshatch",
+				"data_sku": "I-N32326-103",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354799_i-n32326-103_perf-crosshatch_fog.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Oiled Walnut with Brass Cap",
+				"data_description": "Stiletto wood leg made of solid walnut with brass cap.",
+				"data_sku": "Leg016-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/chesterfield_leg.jpg"
+			},
+			{
+				"name": "Natural Oak with Antique Cap",
+				"data_description": "Stiletto wood leg made of solid natural oak with brass cap.",
+				"data_sku": "Leg016-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/interior-define-stilletto-leg-white-oak-antique-cap.jpg"
+			},
+			{
+				"name": "Matte Black with Brass Cap",
+				"data_description": "Stiletto leg made of solid wood with brass cap.",
+				"data_sku": "Leg016-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/interior-define-stilletto-leg-matte-black-brass-cap.jpg"
+			}
+		]
+	},
+	{
+		"name": "Maxwell Chaise Lounge",
+		"product_sku": "MXWL.FABRIC.CHSE.CHAISE",
+		"product_price": 1295,
+		"brand_name": "Maxwell",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/MXWL.FABRIC.CHSE.CHAISE/frames/1/MXWL.FABRIC.CHSE.CHAISE.JPG?background=FFFFFF&feature=COLOR:AK-618-16&feature=FINISH:LEG014-3",
+		"material_type": [
+			{
+				"name": "Greige",
+				"value": "163881",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-16",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873297_mod-velvet-greige-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greys,Beiges"
+			},
+			{
+				"name": "Blush",
+				"value": "163884",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-175",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873357_mod-velvet-blush.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Pinks"
+			},
+			{
+				"name": "Citrine",
+				"value": "163885",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-21",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873409_mod-velvet-citrine-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greens,Yellows"
+			},
+			{
+				"name": "Moss",
+				"value": "163886",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-134",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873423_mod-velvet-moss-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Malachite",
+				"value": "163887",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-184",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873436_mod-velvet-malachite.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Narwhal",
+				"value": "163880",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-40",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873206_mod-velvet-narwhal-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greys,Dark Greys"
+			},
+			{
+				"name": "Sapphire",
+				"value": "163882",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-25",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873319_mod-velvet-sapphire.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Bergen Blue",
+				"value": "163883",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-53",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873341_mod-velvet-bergen-blue.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Coral",
+				"value": "163869",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			},
+			{
+				"name": "Rust",
+				"value": "163870",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-167",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,Oranges"
+			},
+			{
+				"name": "Wine",
+				"value": "163932",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-171",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664736_se-171_perf-velvet_wine.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Reds,Purples"
+			},
+			{
+				"name": "Fawn",
+				"value": "163933",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-172",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664855_se-172_perf-velvet_fawn.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Marigold",
+				"value": "163868",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-170",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664921_se-170_perf-velvet_marigold.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Yellows,Oranges"
+			},
+			{
+				"name": "Sage",
+				"value": "163934",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-173",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664968_se-173_perf-velvet_sage.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Peacock",
+				"value": "163866",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-166",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665016_se-166_perf-velvet_peacock.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,Greens"
+			},
+			{
+				"name": "Navy",
+				"value": "163867",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-164",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665079_se-164_perf-velvet_navy.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Sterling",
+				"value": "163865",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-168",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665130_se-168_perf-velvet_sterling.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Platinum",
+				"value": "163862",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-163",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665169_se-163_perf-velvet_platinum.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Cosmic",
+				"value": "163863",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-162",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665222_se-162_perf-velvet_cosmic.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greys,Dark Greys"
+			},
+			{
+				"name": "Ebony",
+				"value": "163864",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-165",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665263_se-165_perf-velvet_ebony.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blacks"
+			},
+			{
+				"name": "Bloom",
+				"value": "163906",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665410_roy-004_perf-plush-velvet_bloom.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Pinks"
+			},
+			{
+				"name": "Camel",
+				"value": "163907",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665438_roy-006_perf-plush-velvet_camel.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Celadon",
+				"value": "163930",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-010",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665480_roy-010_perf-plush-velvet_celadon.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Spruce",
+				"value": "163926",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665521_roy-002_perf-plush-velvet_spruce.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Spa",
+				"value": "163928",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-008",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665560_roy-008_perf-plush-velvet_spa.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,Greens"
+			},
+			{
+				"name": "French",
+				"value": "163927",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-007",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665591_roy-007_perf-plush-velvet_french.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Cobalt",
+				"value": "163908",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665638_roy-001_perf-plush-velvet_cobalt.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Lavender",
+				"value": "163929",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-009",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665680_roy-009_perf-plush-velvet_lavender.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Purples"
+			},
+			{
+				"name": "Mink",
+				"value": "163910",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665709_roy-005_perf-plush-velvet_mink.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Galaxy",
+				"value": "163909",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-003",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665745_roy-003_perf-plush-velvet_galaxy.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Army",
+				"value": "163952",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-034",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665782_hrt-034_perf-brushed-knit_army.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Greens,All Colors"
+			},
+			{
+				"name": "Dusk",
+				"value": "163951",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-027",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665809_hrt-027_perf-brushed-knit_dusk.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Raisin",
+				"value": "163955",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-025",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665836_hrt-025_perf-brushed-knit_raisin.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Purples"
+			},
+			{
+				"name": "Stormy",
+				"value": "163954",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665862_hrt-006_perf-brushed-knit_stormy.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Greys,Dark Greys,All Colors"
+			},
+			{
+				"name": "Blizzard",
+				"value": "163956",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-010",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635274629_hrt-010_perf-brushed-knit_blizzard.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Greys,Creams"
+			},
+			{
+				"name": "Seal",
+				"value": "163953",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635274392_hrt-001_perf-brushed-knit_seal.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Greys,All Colors"
+			},
+			{
+				"name": "Limestone",
+				"value": "183928",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355210_mer-002_perf-antimicrobial-chenille_limestone.jpg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,All Colors,Creams"
+			},
+			{
+				"name": "Bone",
+				"value": "183940",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636594781_1635276170_mer-006_perf-antimicrobial-chenille_bone-update.jpeg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "All Colors,Creams,Beiges"
+			},
+			{
+				"name": "Marble",
+				"value": "183925",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355143_mer-001_perf-antimicrobial-chenille_marble.jpg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,All Colors,Creams"
+			},
+			{
+				"name": "Boulder",
+				"value": "183937",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635461473_mer-005_perf-antimicrobial-chenille_boulder.jpeg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,Dark Greys,All Colors,Blacks"
+			},
+			{
+				"name": "Cement",
+				"value": "183931",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-003",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355276_mer-003_perf-antimicrobial-chenille_cement.jpg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,All Colors,Creams"
+			},
+			{
+				"name": "Harbour",
+				"value": "183934",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635461372_mer-004_perf-antimicrobial-chenille_harbour.jpeg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Auburn",
+				"value": "163936",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-011",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460435_cov-011_perf-vintage-velvet_auburn.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Oranges"
+			},
+			{
+				"name": "Ivy",
+				"value": "163921",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-007",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460391_cov-007_perf-vintage-velvet_ivy.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Scuba",
+				"value": "163935",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460330_cov-005_perf-vintage-velvet_scuba.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Lagoon",
+				"value": "163946",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460281_cov-004_perf-vintage-velvet_lagoon.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Blanc",
+				"value": "163945",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-025",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460611_cov-025_perf-vintage-velvet_blanc.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Wolf",
+				"value": "163944",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-019",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460535_cov-019_perf-vintage-velvet_wolf.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Slate",
+				"value": "163923",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-030",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460655_cov-030_perf-vintage-velvet_slate.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,Dark Greys"
+			},
+			{
+				"name": "Mocha",
+				"value": "163922",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-017",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460486_cov-017_perf-vintage-velvet_mocha.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Porcelain",
+				"value": "163960",
+				"data_description": "Performance Classic Weave",
+				"data_sku": "CAS-011",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635272908_cas-011_perf-classic-weave_porcelain.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "All Colors,Creams"
+			},
+			{
+				"name": "Bisque",
+				"value": "163948",
+				"data_description": "Performance Classic Weave",
+				"data_sku": "CAS-010",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635270484_cas-010_perf-classic-weave_bisque.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "All Colors,Creams,Beiges"
+			},
+			{
+				"name": "Cove",
+				"value": "163949",
+				"data_description": "Performance Classic Weave",
+				"data_sku": "CAS-016",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635273032_cas-002_perf-classic-weave_cove.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys,Dark Greys,All Colors"
+			},
+			{
+				"name": "Pearl",
+				"value": "163896",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-012",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450734_per-012_perf-basket-weave_pearl.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Sand",
+				"value": "163897",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-026",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450804_per-026_perf-basket-weave_sand.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams,Beiges"
+			},
+			{
+				"name": "Honey",
+				"value": "163895",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-029",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450875_per-029_perf-basket-weave_honey.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Yellows,Oranges"
+			},
+			{
+				"name": "Eggplant",
+				"value": "163894",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-038",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635456972_per-038_perf-basket-weave_eggplant.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Reds,Purples"
+			},
+			{
+				"name": "Seafoam",
+				"value": "163901",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-007",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450641_per-007_perf-basket-weave_seafoam.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys,Greens"
+			},
+			{
+				"name": "Iron",
+				"value": "163898",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635538444_per-001_perf-basket-weave_iron.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Wave",
+				"value": "163899",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-043",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457040_per-043_perf-basket-weave_wave.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Nimbus",
+				"value": "163900",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450567_per-004_perf-basket-weave_nimbus.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Bayou",
+				"value": "163958",
+				"data_description": "Performance Vintage Plush",
+				"data_sku": "PD-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635275453_pd-001_perf-vintage-plush_bayou.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens,All Colors"
+			},
+			{
+				"name": "Juniper",
+				"value": "163963",
+				"data_description": "Performance Vintage Plush",
+				"data_sku": "PD-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635275879_pd-002_perf-vintage-plush_juniper.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Sandstone",
+				"value": "163920",
+				"data_description": "Performance Tweed",
+				"data_sku": "OMNI-010",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356261_omni-010_perf-tweed_sandstone.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Midnight",
+				"value": "163919",
+				"data_description": "Performance Tweed",
+				"data_sku": "OMNI-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355969_omni-005_perf-tweed_midnight.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Blues,Dark Greys"
+			},
+			{
+				"name": "Eclipse",
+				"value": "163918",
+				"data_description": "Performance Tweed",
+				"data_sku": "OMNI-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355903_omni-004_perf-tweed_eclipse.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Browns,Dark Greys"
+			},
+			{
+				"name": "Alabaster",
+				"value": "163937",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-032",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457223_gia-032_perf-linen-weave_alabaster.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Biscotti",
+				"value": "163911",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-035",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458103_gia-035_perf-linen-weave_biscotti.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Amber",
+				"value": "163938",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-020",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458034_gia-020_perf-linen-weave_amber.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Browns,Yellows,Oranges"
+			},
+			{
+				"name": "Rose",
+				"value": "163925",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-040",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458167_gia-040_perf-linen-weave_rose.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Pinks"
+			},
+			{
+				"name": "Olive",
+				"value": "163943",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-008",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457298_gia-008_perf-linen-weave_olive.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Topaz",
+				"value": "163950",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635273155_gia-005_perf-linen-weave_topaz.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Currant",
+				"value": "163912",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-015",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457964_gia-015_perf-linen-weave_currant.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Reds"
+			},
+			{
+				"name": "Snow",
+				"value": "163877",
+				"data_description": "Bouclé",
+				"data_sku": "WOO-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356325_woo-001_boucle_snow.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Champagne",
+				"value": "163968",
+				"data_description": "Performance Loop Weave",
+				"data_sku": "AM-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635276306_am-002_performance-loop-weave_champagne.jpg",
+				"data_price": 75,
+				"data_material": "Bouclé",
+				"data_color": "All Colors,Creams,Beiges"
+			},
+			{
+				"name": "Gull",
+				"value": "163969",
+				"data_description": "Performance Loop Weave",
+				"data_sku": "AM-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635277101_am-001_performance-loop-weave_gull.jpg",
+				"data_price": 75,
+				"data_material": "Bouclé",
+				"data_color": "Greys,All Colors"
+			},
+			{
+				"name": "Goldenrod",
+				"value": "163967",
+				"data_description": "Performance Loop Weave",
+				"data_sku": "AM-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635277003_am-004_performance-loop-weave_goldenrod.jpg",
+				"data_price": 75,
+				"data_material": "Bouclé",
+				"data_color": "All Colors,Yellows"
+			},
+			{
+				"name": "Thunder",
+				"value": "163966",
+				"data_description": "Performance Loop Weave",
+				"data_sku": "AM-003",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635276911_am-003_performance-loop-weave_thunder.jpg",
+				"data_price": 75,
+				"data_material": "Bouclé",
+				"data_color": "Dark Greys,All Colors,Blacks"
+			},
+			{
+				"name": "Frost",
+				"value": "163914",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-006",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859771_slub-weave-frost-2.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Mineral",
+				"value": "163915",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-001",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859786_slub-weave-mineral.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Shark",
+				"value": "163917",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-002",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859805_slub-weave-shark.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "River",
+				"value": "163916",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-020",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859834_slub-weave-river.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Driftwood",
+				"value": "163913",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-014",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859818_slub-weave-driftwood.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Cloud",
+				"value": "163904",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-027",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356690_sma-027_perf-heavy-knit_cloud.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Polar",
+				"value": "163975",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-024",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636674386_sma-024_perf-heavy-knit_polar.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "All Colors,Creams"
+			},
+			{
+				"name": "Carbon",
+				"value": "163902",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-029",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356451_sma-029_perf-heavy-knit_carbon.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Space",
+				"value": "163905",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-030",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356588_sma-030_perf-heavy-knit_space.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Chalk",
+				"value": "163871",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-155",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354292_cu-155_heathered-weave_chalk.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Pebble",
+				"value": "163872",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-151",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635353977_cu-151_heathered-weave_pebble.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys,Creams"
+			},
+			{
+				"name": "Azure",
+				"value": "163874",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-152",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354063_cu-152_heathered-weave_azure.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Coal",
+				"value": "163875",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-153",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354151_cu-153_heathered-weave_coal.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Oatmeal",
+				"value": "163873",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-154",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354219_cu-154_heathered-weave_oatmeal.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Silver Pine",
+				"value": "163924",
+				"data_description": "Heathered Weave",
+				"data_sku": "CB-158",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635283403_cb-158_heathered-weave_silver-pine.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Haze",
+				"value": "163947",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635275745_pw-006_perf-pebble-knit_haze.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys,All Colors"
+			},
+			{
+				"name": "Dove",
+				"value": "163903",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458254_pw-001_perf-pebble-knit_dove.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Lead",
+				"value": "163957",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635275335_pw-002_perf-pebble-knit_lead.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys,Dark Greys"
+			},
+			{
+				"name": "Fern",
+				"value": "163941",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458446_pw-005_perf-pebble-knit_fern.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greens,All Colors"
+			},
+			{
+				"name": "Oat",
+				"value": "163878",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458349_pw-004_perf-pebble-knit_oat.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Ecru",
+				"value": "163891",
+				"data_description": "Monochromatic Plush",
+				"data_sku": "OTE-sunday-39",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355581_ote-sunday-39_monochromatic-plush_ecru.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Forest",
+				"value": "163893",
+				"data_description": "Monochromatic Plush",
+				"data_sku": "OTE-sunday-103",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355524_ote-sunday-103_monochromatic-plush_forest.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Union",
+				"value": "163892",
+				"data_description": "Monochromatic Plush",
+				"data_sku": "OTE-sunday-53",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355829_ote-sunday-53_monochromatic-plush_union.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Opal",
+				"value": "163860",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-132",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282882_bi-132_perf-textured-weave_opal.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Abyss",
+				"value": "163931",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-134",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635283281_bi-134_perf-textured-weave_abyss.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Pepper",
+				"value": "163861",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-133",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636491418_bi-133_perf-textured-weave_pepper.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Sisal",
+				"value": "163859",
+				"data_description": "Vintage Plush",
+				"data_sku": "I-73338-102",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635523398_i-73338-102_vintage-plush_sisal.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Nickel",
+				"value": "163857",
+				"data_description": "Vintage Plush",
+				"data_sku": "I-73338-101",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635523326_i-73338-101_vintage-plush_nickel.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Pewter",
+				"value": "163858",
+				"data_description": "Vintage Plush",
+				"data_sku": "I-73338-107",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635869113_i-73338-107_vintage-plush_pewter.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Buy Now",
+				"value": "163879",
+				"data_description": "Decide fabric later",
+				"data_sku": "select-fabric-later",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1634751770_bndl_swatch.jpeg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "All Colors"
+			},
+			{
+				"name": "Wheat",
+				"value": "163888",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635868302_cw-001_cross-weave_wheat.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams,Beiges"
+			},
+			{
+				"name": "Earth",
+				"value": "163889",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354933_cw-002_cross-weave_earth.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Rain",
+				"value": "163890",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355067_cw-006_cross-weave_rain.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Flax",
+				"value": "163855",
+				"data_description": "Performance Crosshatch",
+				"data_sku": "I-N32326-101",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354357_i-n32326-101_perf-crosshatch_flax.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Fog",
+				"value": "163856",
+				"data_description": "Performance Crosshatch",
+				"data_sku": "I-N32326-103",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354799_i-n32326-103_perf-crosshatch_fog.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Cirrus",
+				"value": "163876",
+				"data_description": "Fleck",
+				"data_sku": "OTE-surrey-2",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635870721_ote-surrey-2_fleck_cirrus.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Matte Black",
+				"data_description": "A classic, turned leg with modern proportions. ",
+				"data_sku": "Leg014-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_turned_leg_in_matte_black.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A classic, turned leg with modern proportions. ",
+				"data_sku": "Leg014-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/maxwell_oak.jpg"
+			},
+			{
+				"name": "Oiled Walnut",
+				"data_description": "Tapered Turned Leg - Oiled Walnut",
+				"data_sku": "Leg014-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/leg014-3.jpg"
+			},
+			{
+				"name": "Oiled Walnut",
+				"data_description": "A 6",
+				"data_sku": "Leg001-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_oiled_walnut_2.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A 6",
+				"data_sku": "Leg001-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_white_oak_2.jpg"
+			},
+			{
+				"name": "Painted Black",
+				"data_description": "A 6",
+				"data_sku": "Leg001-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_painted_black_2.jpg"
+			},
+			{
+				"name": "Chrome Plated",
+				"data_description": "A stylish, modern metal leg plated in chrome.",
+				"data_sku": "Leg008-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/sloan_metal_legs_chrome-plated_v2.jpg"
+			},
+			{
+				"name": "Brass Plated",
+				"data_description": "A stylish, modern metal leg plated in a beautiful brass.",
+				"data_sku": "Leg008-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/sloan_metal_legs_brass-plated_v2.jpg"
+			},
+			{
+				"name": "Matte Black",
+				"data_description": "A stylish, modern metal leg in a matte black finish.",
+				"data_sku": "Leg008-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/sloan_metal_legs_matte_black_v2.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A 6",
+				"data_sku": "Leg002-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_square_wood_legs_white_oak_2.jpg"
+			},
+			{
+				"name": "Painted Black",
+				"data_description": "A 6",
+				"data_sku": "Leg002-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_square_wood_legs_painted_black_1.jpg"
+			},
+			{
+				"name": "Oiled Walnut",
+				"data_description": "A 6",
+				"data_sku": "Leg002-4",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_square_wood_legs_oiled_walnut_1.jpg"
+			},
+			{
+				"name": "Oiled Walnut with Brass Cap",
+				"data_description": "Stiletto wood leg made of solid walnut with brass cap.",
+				"data_sku": "Leg016-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/chesterfield_leg.jpg"
+			},
+			{
+				"name": "Natural Oak with Antique Cap",
+				"data_description": "Stiletto wood leg made of solid natural oak with brass cap.",
+				"data_sku": "Leg016-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/interior-define-stilletto-leg-white-oak-antique-cap.jpg"
+			},
+			{
+				"name": "Matte Black with Brass Cap",
+				"data_description": "Stiletto leg made of solid wood with brass cap.",
+				"data_sku": "Leg016-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/interior-define-stilletto-leg-matte-black-brass-cap.jpg"
+			},
+			{
+				"name": "Brushed Nickel-Plated",
+				"data_description": "A 6",
+				"data_sku": "Leg009-4",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_metal_legs_brushed_1.jpg"
+			},
+			{
+				"name": "Brass Plated",
+				"data_description": "A 6",
+				"data_sku": "Leg009-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_metal_legs_brass-plated_1.jpg"
+			},
+			{
+				"name": "Unfinished GunMetal",
+				"data_description": "A 6",
+				"data_sku": "Leg009-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_metal_legs_raw_finish_1.jpg"
+			}
+		]
+	},
+	{
+		"name": "Sloan Petite Chair",
+		"product_sku": "SLON.FABRIC.CHAR.PETITE",
+		"product_price": 795,
+		"brand_name": "Sloan",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/SLON.FABRIC.CHAR.PETITE/frames/1/SLON.FABRIC.CHAR.PETITE.JPG?background=FFFFFF&feature=COLOR:BI-132&feature=FINISH:LEG001-1",
+		"material_type": [
+			{
+				"name": "Opal",
+				"value": "26377",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-132",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282882_bi-132_perf-textured-weave_opal.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Abyss",
+				"value": "92453",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-134",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635283281_bi-134_perf-textured-weave_abyss.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Pepper",
+				"value": "26379",
+				"data_description": "Performance Textured Weave",
+				"data_sku": "BI-133",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636491418_bi-133_perf-textured-weave_pepper.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Coral",
+				"value": "26375",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			},
+			{
+				"name": "Rust",
+				"value": "26376",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-167",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,Oranges"
+			},
+			{
+				"name": "Wine",
+				"value": "92903",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-171",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664736_se-171_perf-velvet_wine.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Reds,Purples"
+			},
+			{
+				"name": "Fawn",
+				"value": "93354",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-172",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664855_se-172_perf-velvet_fawn.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Marigold",
+				"value": "26374",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-170",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664921_se-170_perf-velvet_marigold.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Yellows,Oranges"
+			},
+			{
+				"name": "Sage",
+				"value": "93805",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-173",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664968_se-173_perf-velvet_sage.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Peacock",
+				"value": "26372",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-166",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665016_se-166_perf-velvet_peacock.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,Greens"
+			},
+			{
+				"name": "Navy",
+				"value": "26373",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-164",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665079_se-164_perf-velvet_navy.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Sterling",
+				"value": "26371",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-168",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665130_se-168_perf-velvet_sterling.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Platinum",
+				"value": "26368",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-163",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665169_se-163_perf-velvet_platinum.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Cosmic",
+				"value": "26369",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-162",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665222_se-162_perf-velvet_cosmic.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greys,Dark Greys"
+			},
+			{
+				"name": "Ebony",
+				"value": "26370",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-165",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665263_se-165_perf-velvet_ebony.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blacks"
+			},
+			{
+				"name": "Bloom",
+				"value": "57820",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665410_roy-004_perf-plush-velvet_bloom.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Pinks"
+			},
+			{
+				"name": "Camel",
+				"value": "58156",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665438_roy-006_perf-plush-velvet_camel.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Celadon",
+				"value": "91967",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-010",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665480_roy-010_perf-plush-velvet_celadon.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Spruce",
+				"value": "59285",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665521_roy-002_perf-plush-velvet_spruce.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Spa",
+				"value": "91186",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-008",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665560_roy-008_perf-plush-velvet_spa.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,Greens"
+			},
+			{
+				"name": "French",
+				"value": "90653",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-007",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665591_roy-007_perf-plush-velvet_french.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Cobalt",
+				"value": "58492",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665638_roy-001_perf-plush-velvet_cobalt.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Lavender",
+				"value": "91517",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-009",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665680_roy-009_perf-plush-velvet_lavender.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Purples"
+			},
+			{
+				"name": "Mink",
+				"value": "59164",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665709_roy-005_perf-plush-velvet_mink.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Galaxy",
+				"value": "58828",
+				"data_description": "Performance Plush Velvet",
+				"data_sku": "ROY-003",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665745_roy-003_perf-plush-velvet_galaxy.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Army",
+				"value": "152194",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-034",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665782_hrt-034_perf-brushed-knit_army.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Greens,All Colors"
+			},
+			{
+				"name": "Dusk",
+				"value": "152071",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-027",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665809_hrt-027_perf-brushed-knit_dusk.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Raisin",
+				"value": "151948",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-025",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665836_hrt-025_perf-brushed-knit_raisin.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Purples"
+			},
+			{
+				"name": "Stormy",
+				"value": "151702",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665862_hrt-006_perf-brushed-knit_stormy.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Greys,Dark Greys,All Colors"
+			},
+			{
+				"name": "Blizzard",
+				"value": "151825",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-010",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635274629_hrt-010_perf-brushed-knit_blizzard.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Greys,Creams"
+			},
+			{
+				"name": "Seal",
+				"value": "151579",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635274392_hrt-001_perf-brushed-knit_seal.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Greys,All Colors"
+			},
+			{
+				"name": "Limestone",
+				"value": "107528",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355210_mer-002_perf-antimicrobial-chenille_limestone.jpg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,All Colors,Creams"
+			},
+			{
+				"name": "Bone",
+				"value": "151442",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636594781_1635276170_mer-006_perf-antimicrobial-chenille_bone-update.jpeg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "All Colors,Creams,Beiges"
+			},
+			{
+				"name": "Marble",
+				"value": "106760",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355143_mer-001_perf-antimicrobial-chenille_marble.jpg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,All Colors,Creams"
+			},
+			{
+				"name": "Boulder",
+				"value": "151356",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635461473_mer-005_perf-antimicrobial-chenille_boulder.jpeg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,Dark Greys,All Colors,Blacks"
+			},
+			{
+				"name": "Cement",
+				"value": "106043",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-003",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355276_mer-003_perf-antimicrobial-chenille_cement.jpg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Greys,All Colors,Creams"
+			},
+			{
+				"name": "Harbour",
+				"value": "151492",
+				"data_description": "Performance Antimicrobial Chenille",
+				"data_sku": "MER-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635461372_mer-004_perf-antimicrobial-chenille_harbour.jpeg",
+				"data_price": 50,
+				"data_material": "Chenille",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Auburn",
+				"value": "104652",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-011",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460435_cov-011_perf-vintage-velvet_auburn.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Oranges"
+			},
+			{
+				"name": "Ivy",
+				"value": "63398",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-007",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460391_cov-007_perf-vintage-velvet_ivy.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Scuba",
+				"value": "104381",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460330_cov-005_perf-vintage-velvet_scuba.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Lagoon",
+				"value": "119149",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460281_cov-004_perf-vintage-velvet_lagoon.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Blanc",
+				"value": "118691",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-025",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460611_cov-025_perf-vintage-velvet_blanc.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Wolf",
+				"value": "118230",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-019",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460535_cov-019_perf-vintage-velvet_wolf.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Slate",
+				"value": "64070",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-030",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460655_cov-030_perf-vintage-velvet_slate.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,Dark Greys"
+			},
+			{
+				"name": "Mocha",
+				"value": "63734",
+				"data_description": "Performance Vintage Velvet",
+				"data_sku": "COV-017",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460486_cov-017_perf-vintage-velvet_mocha.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Porcelain",
+				"value": "152465",
+				"data_description": "Performance Classic Weave",
+				"data_sku": "CAS-011",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635272908_cas-011_perf-classic-weave_porcelain.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "All Colors,Creams"
+			},
+			{
+				"name": "Bisque",
+				"value": "152322",
+				"data_description": "Performance Classic Weave",
+				"data_sku": "CAS-010",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635270484_cas-010_perf-classic-weave_bisque.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "All Colors,Creams,Beiges"
+			},
+			{
+				"name": "Cove",
+				"value": "152598",
+				"data_description": "Performance Classic Weave",
+				"data_sku": "CAS-016",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635273032_cas-002_perf-classic-weave_cove.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys,Dark Greys,All Colors"
+			},
+			{
+				"name": "Pearl",
+				"value": "45794",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-012",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450734_per-012_perf-basket-weave_pearl.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Sand",
+				"value": "46130",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-026",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450804_per-026_perf-basket-weave_sand.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams,Beiges"
+			},
+			{
+				"name": "Honey",
+				"value": "45525",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-029",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450875_per-029_perf-basket-weave_honey.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Yellows,Oranges"
+			},
+			{
+				"name": "Eggplant",
+				"value": "45256",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-038",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635456972_per-038_perf-basket-weave_eggplant.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Reds,Purples"
+			},
+			{
+				"name": "Seafoam",
+				"value": "47144",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-007",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450641_per-007_perf-basket-weave_seafoam.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys,Greens"
+			},
+			{
+				"name": "Iron",
+				"value": "46337",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635538444_per-001_perf-basket-weave_iron.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Wave",
+				"value": "46606",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-043",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457040_per-043_perf-basket-weave_wave.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Nimbus",
+				"value": "46875",
+				"data_description": "Performance Basket Weave",
+				"data_sku": "PER-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635450567_per-004_perf-basket-weave_nimbus.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Bayou",
+				"value": "153167",
+				"data_description": "Performance Vintage Plush",
+				"data_sku": "PD-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635275453_pd-001_perf-vintage-plush_bayou.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Greens,All Colors"
+			},
+			{
+				"name": "Juniper",
+				"value": "153293",
+				"data_description": "Performance Vintage Plush",
+				"data_sku": "PD-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635275879_pd-002_perf-vintage-plush_juniper.jpg",
+				"data_price": 50,
+				"data_material": "Velvet",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Sandstone",
+				"value": "63062",
+				"data_description": "Performance Tweed",
+				"data_sku": "OMNI-010",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356261_omni-010_perf-tweed_sandstone.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Midnight",
+				"value": "62726",
+				"data_description": "Performance Tweed",
+				"data_sku": "OMNI-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355969_omni-005_perf-tweed_midnight.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Blues,Dark Greys"
+			},
+			{
+				"name": "Eclipse",
+				"value": "62390",
+				"data_description": "Performance Tweed",
+				"data_sku": "OMNI-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355903_omni-004_perf-tweed_eclipse.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Browns,Dark Greys"
+			},
+			{
+				"name": "Alabaster",
+				"value": "104924",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-032",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457223_gia-032_perf-linen-weave_alabaster.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Biscotti",
+				"value": "59698",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-035",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458103_gia-035_perf-linen-weave_biscotti.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Amber",
+				"value": "105196",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-020",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458034_gia-020_perf-linen-weave_amber.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Browns,Yellows,Oranges"
+			},
+			{
+				"name": "Rose",
+				"value": "64837",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-040",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458167_gia-040_perf-linen-weave_rose.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Pinks"
+			},
+			{
+				"name": "Olive",
+				"value": "111015",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-008",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457298_gia-008_perf-linen-weave_olive.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Topaz",
+				"value": "152721",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635273155_gia-005_perf-linen-weave_topaz.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Currant",
+				"value": "60034",
+				"data_description": "Performance Linen Weave",
+				"data_sku": "GIA-015",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635457964_gia-015_perf-linen-weave_currant.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Reds"
+			},
+			{
+				"name": "Snow",
+				"value": "26356",
+				"data_description": "Bouclé",
+				"data_sku": "WOO-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356325_woo-001_boucle_snow.jpg",
+				"data_price": 50,
+				"data_material": "Texture",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Champagne",
+				"value": "160014",
+				"data_description": "Performance Loop Weave",
+				"data_sku": "AM-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635276306_am-002_performance-loop-weave_champagne.jpg",
+				"data_price": 75,
+				"data_material": "Bouclé",
+				"data_color": "All Colors,Creams,Beiges"
+			},
+			{
+				"name": "Gull",
+				"value": "160262",
+				"data_description": "Performance Loop Weave",
+				"data_sku": "AM-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635277101_am-001_performance-loop-weave_gull.jpg",
+				"data_price": 75,
+				"data_material": "Bouclé",
+				"data_color": "Greys,All Colors"
+			},
+			{
+				"name": "Goldenrod",
+				"value": "159839",
+				"data_description": "Performance Loop Weave",
+				"data_sku": "AM-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635277003_am-004_performance-loop-weave_goldenrod.jpg",
+				"data_price": 75,
+				"data_material": "Bouclé",
+				"data_color": "All Colors,Yellows"
+			},
+			{
+				"name": "Thunder",
+				"value": "159591",
+				"data_description": "Performance Loop Weave",
+				"data_sku": "AM-003",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635276911_am-003_performance-loop-weave_thunder.jpg",
+				"data_price": 75,
+				"data_material": "Bouclé",
+				"data_color": "Dark Greys,All Colors,Blacks"
+			},
+			{
+				"name": "Copper",
+				"value": "160568",
+				"data_description": "Performance Blakely",
+				"data_sku": "WH-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635278151_wh-002_performance-blakely_copper.jpg",
+				"data_price": 75,
+				"data_material": "Woven",
+				"data_color": "Browns,Reds,All Colors,Oranges"
+			},
+			{
+				"name": "Ginger",
+				"value": "161320",
+				"data_description": "Performance Blakely",
+				"data_sku": "WH-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635279597_wh-004_performance-blakely_ginger.jpg",
+				"data_price": 75,
+				"data_material": "Woven",
+				"data_color": "Browns,All Colors,Yellows,Oranges"
+			},
+			{
+				"name": "Atlantic",
+				"value": "160944",
+				"data_description": "Performance Blakely",
+				"data_sku": "WH-003",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635279466_wh-003_performance-blakely_atlantic.jpg",
+				"data_price": 75,
+				"data_material": "Woven",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Obsidian",
+				"value": "161696",
+				"data_description": "Performance Blakely",
+				"data_sku": "WH-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635279746_wh-005_performance-blakely_obsidian.jpg",
+				"data_price": 75,
+				"data_material": "Woven",
+				"data_color": "Greys,Dark Greys,All Colors,Blacks"
+			},
+			{
+				"name": "Silver",
+				"value": "162072",
+				"data_description": "Performance Blakely",
+				"data_sku": "WH-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635278064_wh-001_performance-blakely_silver.jpg",
+				"data_price": 75,
+				"data_material": "Woven",
+				"data_color": "Greys,All Colors"
+			},
+			{
+				"name": "Denim",
+				"value": "155133",
+				"data_description": "Performance Hunt Stripe",
+				"data_sku": "HS-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635963343_hs-002_performance-hunt-stripe_denim.jpg",
+				"data_price": 75,
+				"data_material": "Woven",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Raven",
+				"value": "155412",
+				"data_description": "Performance Hunt Stripe",
+				"data_sku": "HS-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635962814_hs-001_performance-hunt-stripe_raven.jpg",
+				"data_price": 75,
+				"data_material": "Woven",
+				"data_color": "Dark Greys,All Colors,Blacks"
+			},
+			{
+				"name": "Frost",
+				"value": "61046",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-006",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859771_slub-weave-frost-2.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Mineral",
+				"value": "61515",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-001",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859786_slub-weave-mineral.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Shark",
+				"value": "62054",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-002",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859805_slub-weave-shark.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "River",
+				"value": "61641",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-020",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859834_slub-weave-river.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Driftwood",
+				"value": "60710",
+				"data_description": "Performance Slub Weave",
+				"data_sku": "KEY-014",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611859818_slub-weave-driftwood.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Cloud",
+				"value": "53245",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-027",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356690_sma-027_perf-heavy-knit_cloud.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Polar",
+				"value": "162541",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-024",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636674386_sma-024_perf-heavy-knit_polar.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "All Colors,Creams"
+			},
+			{
+				"name": "Carbon",
+				"value": "47597",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-029",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356451_sma-029_perf-heavy-knit_carbon.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Space",
+				"value": "53530",
+				"data_description": "Performance Heavy Knit",
+				"data_sku": "SMA-030",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635356588_sma-030_perf-heavy-knit_space.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Chalk",
+				"value": "26359",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-155",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354292_cu-155_heathered-weave_chalk.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Pebble",
+				"value": "26360",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-151",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635353977_cu-151_heathered-weave_pebble.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys,Creams"
+			},
+			{
+				"name": "Azure",
+				"value": "26363",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-152",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354063_cu-152_heathered-weave_azure.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Coal",
+				"value": "26364",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-153",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354151_cu-153_heathered-weave_coal.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Dark Greys"
+			},
+			{
+				"name": "Oatmeal",
+				"value": "26361",
+				"data_description": "Heathered Weave",
+				"data_sku": "CU-154",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354219_cu-154_heathered-weave_oatmeal.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Silver Pine",
+				"value": "64338",
+				"data_description": "Heathered Weave",
+				"data_sku": "CB-158",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635283403_cb-158_heathered-weave_silver-pine.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Haze",
+				"value": "139996",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635275745_pw-006_perf-pebble-knit_haze.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys,All Colors"
+			},
+			{
+				"name": "Dove",
+				"value": "50550",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458254_pw-001_perf-pebble-knit_dove.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Lead",
+				"value": "152888",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635275335_pw-002_perf-pebble-knit_lead.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys,Dark Greys"
+			},
+			{
+				"name": "Fern",
+				"value": "107214",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458446_pw-005_perf-pebble-knit_fern.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greens,All Colors"
+			},
+			{
+				"name": "Oat",
+				"value": "26358",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458349_pw-004_perf-pebble-knit_oat.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Blush",
+				"value": "26392",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-175",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873357_mod-velvet-blush.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Pinks"
+			},
+			{
+				"name": "Citrine",
+				"value": "26395",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-21",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873409_mod-velvet-citrine-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greens,Yellows"
+			},
+			{
+				"name": "Moss",
+				"value": "26396",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-134",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873423_mod-velvet-moss-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Malachite",
+				"value": "26397",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-184",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873436_mod-velvet-malachite.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Narwhal",
+				"value": "26388",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-40",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873206_mod-velvet-narwhal-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greys,Dark Greys"
+			},
+			{
+				"name": "Greige",
+				"value": "26389",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-16",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873297_mod-velvet-greige-2.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Greys,Beiges"
+			},
+			{
+				"name": "Sapphire",
+				"value": "26390",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-25",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873319_mod-velvet-sapphire.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Bergen Blue",
+				"value": "26391",
+				"data_description": "Mod Velvet",
+				"data_sku": "AK-618-53",
+				"data_imagesrc": "https://media.interiordefine.com/media/swatches/thumbnail/1611873341_mod-velvet-bergen-blue.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Ecru",
+				"value": "26404",
+				"data_description": "Monochromatic Plush",
+				"data_sku": "OTE-sunday-39",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355581_ote-sunday-39_monochromatic-plush_ecru.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Forest",
+				"value": "26410",
+				"data_description": "Monochromatic Plush",
+				"data_sku": "OTE-sunday-103",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355524_ote-sunday-103_monochromatic-plush_forest.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greens"
+			},
+			{
+				"name": "Union",
+				"value": "26406",
+				"data_description": "Monochromatic Plush",
+				"data_sku": "OTE-sunday-53",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355829_ote-sunday-53_monochromatic-plush_union.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Sisal",
+				"value": "26385",
+				"data_description": "Vintage Plush",
+				"data_sku": "I-73338-102",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635523398_i-73338-102_vintage-plush_sisal.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Nickel",
+				"value": "26383",
+				"data_description": "Vintage Plush",
+				"data_sku": "I-73338-101",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635523326_i-73338-101_vintage-plush_nickel.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Pewter",
+				"value": "26384",
+				"data_description": "Vintage Plush",
+				"data_sku": "I-73338-107",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635869113_i-73338-107_vintage-plush_pewter.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Buy Now",
+				"value": "26367",
+				"data_description": "Decide fabric later",
+				"data_sku": "select-fabric-later",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1634751770_bndl_swatch.jpeg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "All Colors"
+			},
+			{
+				"name": "Wheat",
+				"value": "26399",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635868302_cw-001_cross-weave_wheat.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams,Beiges"
+			},
+			{
+				"name": "Earth",
+				"value": "26400",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354933_cw-002_cross-weave_earth.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Rain",
+				"value": "26403",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355067_cw-006_cross-weave_rain.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Flax",
+				"value": "26386",
+				"data_description": "Performance Crosshatch",
+				"data_sku": "I-N32326-101",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354357_i-n32326-101_perf-crosshatch_flax.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Beiges"
+			},
+			{
+				"name": "Fog",
+				"value": "26387",
+				"data_description": "Performance Crosshatch",
+				"data_sku": "I-N32326-103",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354799_i-n32326-103_perf-crosshatch_fog.jpg",
+				"data_price": 50,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Cirrus",
+				"value": "26380",
+				"data_description": "Fleck",
+				"data_sku": "OTE-surrey-2",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635870721_ote-surrey-2_fleck_cirrus.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Oiled Walnut",
+				"data_description": "A 6",
+				"data_sku": "Leg001-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_oiled_walnut_2.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A 6",
+				"data_sku": "Leg001-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_white_oak_2.jpg"
+			},
+			{
+				"name": "Painted Black",
+				"data_description": "A 6",
+				"data_sku": "Leg001-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_round_wood_legs_painted_black_2.jpg"
+			},
+			{
+				"name": "Chrome Plated",
+				"data_description": "A stylish, modern metal leg plated in chrome.",
+				"data_sku": "Leg008-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/sloan_metal_legs_chrome-plated_v2.jpg"
+			},
+			{
+				"name": "Brass Plated",
+				"data_description": "A stylish, modern metal leg plated in a beautiful brass.",
+				"data_sku": "Leg008-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/sloan_metal_legs_brass-plated_v2.jpg"
+			},
+			{
+				"name": "Matte Black",
+				"data_description": "A stylish, modern metal leg in a matte black finish.",
+				"data_sku": "Leg008-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/sloan_metal_legs_matte_black_v2.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A 6",
+				"data_sku": "Leg002-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_square_wood_legs_white_oak_2.jpg"
+			},
+			{
+				"name": "Painted Black",
+				"data_description": "A 6",
+				"data_sku": "Leg002-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_square_wood_legs_painted_black_1.jpg"
+			},
+			{
+				"name": "Oiled Walnut",
+				"data_description": "A 6",
+				"data_sku": "Leg002-4",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_square_wood_legs_oiled_walnut_1.jpg"
+			},
+			{
+				"name": "Matte Black",
+				"data_description": "A classic, turned leg with modern proportions. ",
+				"data_sku": "Leg014-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_turned_leg_in_matte_black.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A classic, turned leg with modern proportions. ",
+				"data_sku": "Leg014-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/maxwell_oak.jpg"
+			},
+			{
+				"name": "Oiled Walnut",
+				"data_description": "Tapered Turned Leg - Oiled Walnut",
+				"data_sku": "Leg014-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/leg014-3.jpg"
+			},
+			{
+				"name": "Oiled Walnut with Brass Cap",
+				"data_description": "Stiletto wood leg made of solid walnut with brass cap.",
+				"data_sku": "Leg016-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/chesterfield_leg.jpg"
+			},
+			{
+				"name": "Natural Oak with Antique Cap",
+				"data_description": "Stiletto wood leg made of solid natural oak with brass cap.",
+				"data_sku": "Leg016-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/interior-define-stilletto-leg-white-oak-antique-cap.jpg"
+			},
+			{
+				"name": "Matte Black with Brass Cap",
+				"data_description": "Stiletto leg made of solid wood with brass cap.",
+				"data_sku": "Leg016-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/interior-define-stilletto-leg-matte-black-brass-cap.jpg"
+			},
+			{
+				"name": "Brushed Nickel-Plated",
+				"data_description": "A 6",
+				"data_sku": "Leg009-4",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_metal_legs_brushed_1.jpg"
+			},
+			{
+				"name": "Brass Plated",
+				"data_description": "A 6",
+				"data_sku": "Leg009-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_metal_legs_brass-plated_1.jpg"
+			},
+			{
+				"name": "Unfinished GunMetal",
+				"data_description": "A 6",
+				"data_sku": "Leg009-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/tapered_metal_legs_raw_finish_1.jpg"
+			}
+		]
+	}
+]

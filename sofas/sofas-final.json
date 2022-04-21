@@ -1,0 +1,278 @@
+[
+	{
+		"name": "Charly Fabric Sofa",
+    "product_sku": "CHLY.FABRIC.SOFA.STNDRD",
+		"product_price": 1795,
+    "brand_name": "Charly",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/CHLY.FABRIC.SOFA.STNDRD/frames/1/CHLY.FABRIC.SOFA.STNDRD.JPG?background=FFFFFF&feature=CUSHIONS:CUSHION-BENCH&feature=COLOR:CW-006&feature=FINISH:LEG018-1",
+		"material_type": [
+			{
+				"name": "Rain",
+				"value": "24901",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355067_cw-006_cross-weave_rain.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Wheat",
+				"value": "24897",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635868302_cw-001_cross-weave_wheat.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams,Beiges"
+			},
+			{
+				"name": "Earth",
+				"value": "24898",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354933_cw-002_cross-weave_earth.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Coral",
+				"value": "24873",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 100,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Oiled Walnut",
+				"data_description": "Charly Block Leg",
+				"data_sku": "Leg018-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/walnut-block.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "Charly Block Leg",
+				"data_sku": "Leg018-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/white-oak-block.jpg"
+			},
+			{
+				"name": "Painted Black",
+				"data_description": "Charly Block Leg",
+				"data_sku": "Leg018-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/painted-black-block.jpg"
+			}
+		]
+	},
+  {
+		"name": "Charly Loveseat",
+    "product_sku": "CHLY.FABRIC.SOFA.APRTMT",
+		"product_price": 1495,
+    "brand_name": "Charly",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/CHLY.FABRIC.SOFA.APRTMT/frames/1/CHLY.FABRIC.SOFA.APRTMT.JPG?background=FFFFFF&feature=CUSHIONS:CUSHION-BENCH&feature=COLOR:CW-006&feature=FINISH:LEG018-1",
+		"material_type": [
+			{
+				"name": "Rain",
+				"value": "24260",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355067_cw-006_cross-weave_rain.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Wheat",
+				"value": "24256",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635868302_cw-001_cross-weave_wheat.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams,Beiges"
+			},
+			{
+				"name": "Earth",
+				"value": "24257",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354933_cw-002_cross-weave_earth.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Coral",
+				"value": "24235",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 100,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Oiled Walnut",
+				"data_description": "Charly Block Leg",
+				"data_sku": "Leg018-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/walnut-block.jpg"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "Charly Block Leg",
+				"data_sku": "Leg018-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/white-oak-block.jpg"
+			},
+			{
+				"name": "Painted Black",
+				"data_description": "Charly Block Leg",
+				"data_sku": "Leg018-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/painted-black-block.jpg"
+			}
+		]
+	},
+  {
+		"name": "Charly Sleeper Sofa",
+    "product_sku": "CHLY.FABRIC.SOFA.SLEEPR",
+		"product_price": 2195,
+    "brand_name": "Charly",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/CHLY.FABRIC.SOFA.SLEEPR/frames/1/CHLY.FABRIC.SOFA.SLEEPR.JPG?background=FFFFFF&feature=CUSHIONS:CUSHION-BENCH&feature=BED:BED_IN&feature=COLOR:CW-006&feature=FINISH:LEG007-1",
+		"material_type": [
+			{
+				"name": "Rain",
+				"value": "25509",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355067_cw-006_cross-weave_rain.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Wheat",
+				"value": "25505",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635868302_cw-001_cross-weave_wheat.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams,Beiges"
+			},
+			{
+				"name": "Earth",
+				"value": "25506",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354933_cw-002_cross-weave_earth.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Coral",
+				"value": "25481",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 100,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Oiled Walnut",
+				"data_description": "A wood, L-shaped leg formed by two pieces of solid walnut.",
+				"data_sku": "Leg007-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/walnut-2.png"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A wood, L-shaped leg in unfinished white oak.",
+				"data_sku": "Leg007-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/oak-2.png"
+			},
+			{
+				"name": "Matte Black",
+				"data_description": "A wood, L-shaped leg in a matte black finish.",
+				"data_sku": "Leg007-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/painted-2_jpeg_1.jpg"
+			}
+		]
+	},
+  {
+		"name": "Charly Twin Sleeper Sofa",
+    "product_sku": "CHLY.FABRIC.SOFA.SSTWIN",
+		"product_price": 1895,
+    "brand_name": "Charly",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/CHLY.FABRIC.SOFA.SSTWIN/frames/1/CHLY.FABRIC.SOFA.SSTWIN.JPG?background=FFFFFF&feature=CUSHIONS:CUSHION-BENCH&feature=BED:BED_IN&feature=COLOR:CW-006&feature=FINISH:LEG007-1",
+		"material_type": [
+			{
+				"name": "Rain",
+				"value": "30831",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635355067_cw-006_cross-weave_rain.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues"
+			},
+			{
+				"name": "Wheat",
+				"value": "30827",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635868302_cw-001_cross-weave_wheat.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Creams,Beiges"
+			},
+			{
+				"name": "Earth",
+				"value": "30828",
+				"data_description": "Cross Weave",
+				"data_sku": "CW-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354933_cw-002_cross-weave_earth.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Browns,Beiges"
+			},
+			{
+				"name": "Coral",
+				"value": "30803",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 100,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Oiled Walnut",
+				"data_description": "A wood, L-shaped leg formed by two pieces of solid walnut.",
+				"data_sku": "Leg007-1",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/walnut-2.png"
+			},
+			{
+				"name": "Natural Oak",
+				"data_description": "A wood, L-shaped leg in unfinished white oak.",
+				"data_sku": "Leg007-2",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/oak-2.png"
+			},
+			{
+				"name": "Matte Black",
+				"data_description": "A wood, L-shaped leg in a matte black finish.",
+				"data_sku": "Leg007-3",
+				"data_imagesrc": "https://d2cquv6wfilehq.cloudfront.net/media/legs/thumbnail/painted-2_jpeg_1.jpg"
+			}
+		]
+	}
+]

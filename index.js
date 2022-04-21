@@ -1,22 +1,8 @@
 const fs = require('fs');
 const puppeter = require('puppeteer');
-const url = 'https://nhaxinh.com/danh-muc/phong-khach/sofa-goc/';
-const path = './phong-khach/';
-const fileName = 'sofa-goc';
-
-async function saveImage(nameFile, urlLink) {
-  try {
-    if (!fs.existsSync(nameFile)) {
-      fs.mkdirSync(nameFile);
-    }
-    dowloader.image({
-      url: urlLink,
-      dest: nameFile,
-    });
-  } catch (e) {
-    console.log(e);
-  }
-}
+const url = 'https://www.interiordefine.com/shop/custom-ottomans';
+const path = './ottomans/';
+const fileName = 'ottomans';
 
 function saveObj(fileName, data) {
   fs.writeFile(
@@ -32,7 +18,7 @@ async function main() {
   const browser = await puppeter.launch();
   const page = await browser.newPage();
 
-  await page.goto(url);
+  await page.goto(url, { waitUntil: 'load', timeout: 0 });
 
   if (!fs.existsSync(path)) {
     fs.mkdirSync(path);
@@ -41,66 +27,79 @@ async function main() {
   const links = await page.evaluate(() => {
     const items = Array.from(
       document.querySelectorAll(
-        '.row.category-page-row div.col-inner .image-fade_in_back'
+        '.swiper-wrapper .category--product.default.swiper-slide.product--to-filter-family'
       )
     );
 
-    const srcSetAttribute = items.slice(0, 20).map((item) => {
-      const gethref = item.querySelector('a').getAttribute('href');
+    const srcSetAttribute = items.slice(8, 9).map((item) => {
+      const gethref = item
+        .querySelector('a.category--product-lnk')
+        .getAttribute('href');
       return gethref;
     });
-
     return srcSetAttribute;
   });
 
   const database = await Promise.all(
     links.map(async (link) => {
-      const page = await browser.newPage();
-      await page.goto(link, { waitUntil: 'load', timeout: 0 });
+      const nextPage = await browser.newPage();
+      await nextPage.goto(link, { waitUntil: 'networkidle0', timeout: 0 });
 
-      const data = await page.evaluate(() => {
-        const title = document.querySelector('h1.product-title').innerText;
-        const price = parseInt(
-          String(
-            document.querySelector('.woocommerce-Price-amount.amount').innerText
-          )
-            .replaceAll(',', '')
-            .replaceAll('₫', '')
+      const data = await nextPage.evaluate(() => {
+        const data_sku = document.querySelectorAll(
+          'script[type="text/javascript"][language="javascript"]'
+        )[0].innerHTML;
+
+        const img_tag = document.querySelector(
+          '.cylindo-viewer-container.has-thumbs.thumb-location-bottom img'
         );
-        const size = document.querySelector(
-          'div.product-attribute.product-attribute-item.product-attribute-item-0 span.product-attribute-option'
+
+        const image_url = img_tag
+          ? img_tag.hasAttribute('src')
+            ? img_tag.getAttribute('src')
+            : null
+          : null;
+
+        const name = document.querySelector(
+          'div.product--configurator-top h1'
         ).innerText;
-        const productBaseId = document.querySelector('.sku').innerText;
-        const detailMaterial = Array.from(
-          document.querySelectorAll(
-            'div.product-attribute.product-attribute-item.product-attribute-item-0 span.product-attribute-option'
-          )
-        ).map((e) => e.innerText);
-        detailMaterial.shift();
-        const image = Array.from(
-          document.querySelectorAll(
-            '.col.large-2.large-col-first.vertical-thumbnails.pb-0 div.col a img'
-          )
+
+        const material_type = Array.from(
+          document.querySelectorAll('select[name="material-type"] option')
         )
-          .filter(function (e) {
-            if (e.getAttribute('src').includes('https://')) return true;
-            return false;
-          })
+          .slice(0, 4)
           .map(function (e) {
-            return e.getAttribute('src');
+            return {
+              name: e.innerText,
+              value: e.getAttribute('value'),
+              data_description: e.getAttribute('data-description'),
+              data_sku: e.getAttribute('data-sku'),
+              data_imagesrc: e.getAttribute('data-imagesrc'),
+              data_price: parseInt(e.getAttribute('data-price')),
+              data_material: e.getAttribute('data-material'),
+              data_color: e.getAttribute('data-colors'),
+            };
           });
+
+        const legs_type = Array.from(
+          document.querySelectorAll('select[name="legs-type"] option')
+        )
+          .slice(0, 3)
+          .map(function (e) {
+            return {
+              name: e.innerText,
+              data_description: e.getAttribute('data-description'),
+              data_sku: e.getAttribute('data-sku'),
+              data_imagesrc: e.getAttribute('data-imagesrc'),
+            };
+          });
+
         return {
-          ProductBasetId: productBaseId,
-          CategoryId: 5,
-          BrandId: 1,
-          MaterialId: 1,
-          Name: title,
-          Size: size,
-          Description: '',
-          Quantity: 0,
-          Price: price,
-          Image: image,
-          detailMaterial: detailMaterial,
+          name: name,
+          data_sku: data_sku,
+          image_url: image_url,
+          material_type: material_type,
+          legs_type: legs_type,
         };
       });
       return data;
@@ -110,4 +109,5 @@ async function main() {
   await browser.close();
   saveObj(fileName, database);
 }
+
 main();
