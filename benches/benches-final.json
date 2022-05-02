@@ -1,228 +1,232 @@
 [
-	{
-		"name": "Otto Bench",
-		"product_sku": "OTTO.FABRIC.BENCH.STNDRD",
-		"product_price": 595,
+  {
+    "name": "Otto Bench",
+    "product_sku": "OTTO.FABRIC.BENCH.STNDRD",
+    "product_price": 595,
     "brand_name": "Otto",
-		"image_url": "https://content.cylindo.com/api/v2/4472/products/OTTO.FABRIC.BENCH.STNDRD/frames/1/OTTO.FABRIC.BENCH.STNDRD.JPG?background=FFFFFF&feature=COLOR:SE-173&feature=FINISH:LEG039-2",
-		"material_type": [
-			{
-				"name": "Sage",
-				"value": "104060",
-				"data_description": "Performance Velvet",
-				"data_sku": "SE-173",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664968_se-173_perf-velvet_sage.jpg",
-				"data_price": 50,
-				"data_material": "Velvet",
-				"data_color": "Greens"
-			},
-			{
-				"name": "Coral",
-				"value": "103983",
-				"data_description": "Performance Velvet",
-				"data_sku": "SE-161",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
-				"data_price": 50,
-				"data_material": "Velvet",
-				"data_color": "Oranges,Pinks"
-			},
-			{
-				"name": "Rust",
-				"value": "103984",
-				"data_description": "Performance Velvet",
-				"data_sku": "SE-167",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
-				"data_price": 50,
-				"data_material": "Velvet",
-				"data_color": "Browns,Reds,Oranges"
-			},
-			{
-				"name": "Wine",
-				"value": "104058",
-				"data_description": "Performance Velvet",
-				"data_sku": "SE-171",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664736_se-171_perf-velvet_wine.jpg",
-				"data_price": 50,
-				"data_material": "Velvet",
-				"data_color": "Reds,Purples"
-			}
-		],
-		"legs_type": [
-			{
-				"name": "Matte Black",
-				"data_description": "Otto Bench Leg in Matte Black",
-				"data_sku": "Leg039-1",
-				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1624999515_screen-shot-2021-06-29-at-4.44.55-pm.png"
-			},
-			{
-				"name": "Matte Brass",
-				"data_description": "Otto Bench Leg in Matte Brass",
-				"data_sku": "Leg039-2",
-				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1624999541_screen-shot-2021-06-29-at-4.42.20-pm.png"
-			}
-		]
-	},
+    "product_desc": "Otto''s minimalist design adds a sleek touch to any space, whether in a living room, entryway, or dining space. A soft upholstered seat sits atop architectural legs, adding subtle interest for a clean-lined look.\nDesigner tip: Otto''s minimal design makes it a versatile bench for both entryways and living rooms.",
+    "image_url": "https://content.cylindo.com/api/v2/4472/products/OTTO.FABRIC.BENCH.STNDRD/frames/1/OTTO.FABRIC.BENCH.STNDRD.JPG?background=FFFFFF&feature=COLOR:SE-173&feature=FINISH:LEG039-2",
+    "material_type": [
+      {
+        "name": "Sage",
+        "value": "104060",
+        "data_description": "Performance Velvet",
+        "data_sku": "SE-173",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664968_se-173_perf-velvet_sage.jpg",
+        "data_price": 50,
+        "data_material": "Velvet",
+        "data_color": "Greens"
+      },
+      {
+        "name": "Coral",
+        "value": "103983",
+        "data_description": "Performance Velvet",
+        "data_sku": "SE-161",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+        "data_price": 50,
+        "data_material": "Velvet",
+        "data_color": "Oranges,Pinks"
+      },
+      {
+        "name": "Rust",
+        "value": "103984",
+        "data_description": "Performance Velvet",
+        "data_sku": "SE-167",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
+        "data_price": 50,
+        "data_material": "Velvet",
+        "data_color": "Browns,Reds,Oranges"
+      },
+      {
+        "name": "Wine",
+        "value": "104058",
+        "data_description": "Performance Velvet",
+        "data_sku": "SE-171",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664736_se-171_perf-velvet_wine.jpg",
+        "data_price": 50,
+        "data_material": "Velvet",
+        "data_color": "Reds,Purples"
+      }
+    ],
+    "legs_type": [
+      {
+        "name": "Matte Black",
+        "data_description": "Otto Bench Leg in Matte Black",
+        "data_sku": "Leg039-1",
+        "data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1624999515_screen-shot-2021-06-29-at-4.44.55-pm.png"
+      },
+      {
+        "name": "Matte Brass",
+        "data_description": "Otto Bench Leg in Matte Brass",
+        "data_sku": "Leg039-2",
+        "data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1624999541_screen-shot-2021-06-29-at-4.42.20-pm.png"
+      }
+    ]
+  },
   {
-		"name": "Miller Bench",
+    "name": "Miller Bench",
     "product_sku": "MLLR.FABRIC.BENCH.STNDRD",
-		"product_price": 595,
+    "product_price": 595,
     "brand_name": "Miller",
-		"image_url": "https://content.cylindo.com/api/v2/4472/products/MLLR.FABRIC.BENCH.STNDRD/frames/1/MLLR.FABRIC.BENCH.STNDRD.JPG?background=FFFFFF&feature=COLOR:ROY-001&feature=FINISH:LEG038-2",
-		"material_type": [
-			{
-				"name": "Cobalt",
-				"value": "103818",
-				"data_description": "Performance Plush Velvet",
-				"data_sku": "ROY-001",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665638_roy-001_perf-plush-velvet_cobalt.jpg",
-				"data_price": 50,
-				"data_material": "Velvet",
-				"data_color": "Blues"
-			},
-			{
-				"name": "Bloom",
-				"value": "103822",
-				"data_description": "Performance Plush Velvet",
-				"data_sku": "ROY-004",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665410_roy-004_perf-plush-velvet_bloom.jpg",
-				"data_price": 50,
-				"data_material": "Velvet",
-				"data_color": "Pinks"
-			},
-			{
-				"name": "Camel",
-				"value": "103824",
-				"data_description": "Performance Plush Velvet",
-				"data_sku": "ROY-006",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665438_roy-006_perf-plush-velvet_camel.jpg",
-				"data_price": 50,
-				"data_material": "Velvet",
-				"data_color": "Browns,Beiges"
-			},
-			{
-				"name": "Celadon",
-				"value": "103831",
-				"data_description": "Performance Plush Velvet",
-				"data_sku": "ROY-010",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665480_roy-010_perf-plush-velvet_celadon.jpg",
-				"data_price": 50,
-				"data_material": "Velvet",
-				"data_color": "Greens"
-			}
-		],
-		"legs_type": [
-			{
-				"name": "Matte Black",
-				"data_description": "MIller Bench Leg Matte Black",
-				"data_sku": "Leg038-1",
-				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1624998895_screen-shot-2021-06-29-at-4.34.21-pm.png"
-			},
-			{
-				"name": "Matte Brass",
-				"data_description": "Miller Bench Leg in Matte Brass",
-				"data_sku": "Leg038-2",
-				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1624999089_screen-shot-2021-06-29-at-3.37.45-pm.png"
-			}
-		]
-	},
+    "product_desc": "Miller''s minimalist rail bench meets an oversized upholstered seat for a look that''s sleek but sophisticated, looking especially stylish in a living room, as dining seating, or at the end of a bed.\nDesigner tip: Pair Miller with lighter, airy pieces that complement its larger proportions.",
+    "image_url": "https://content.cylindo.com/api/v2/4472/products/MLLR.FABRIC.BENCH.STNDRD/frames/1/MLLR.FABRIC.BENCH.STNDRD.JPG?background=FFFFFF&feature=COLOR:ROY-001&feature=FINISH:LEG038-2",
+    "material_type": [
+      {
+        "name": "Cobalt",
+        "value": "103818",
+        "data_description": "Performance Plush Velvet",
+        "data_sku": "ROY-001",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665638_roy-001_perf-plush-velvet_cobalt.jpg",
+        "data_price": 50,
+        "data_material": "Velvet",
+        "data_color": "Blues"
+      },
+      {
+        "name": "Bloom",
+        "value": "103822",
+        "data_description": "Performance Plush Velvet",
+        "data_sku": "ROY-004",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665410_roy-004_perf-plush-velvet_bloom.jpg",
+        "data_price": 50,
+        "data_material": "Velvet",
+        "data_color": "Pinks"
+      },
+      {
+        "name": "Camel",
+        "value": "103824",
+        "data_description": "Performance Plush Velvet",
+        "data_sku": "ROY-006",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665438_roy-006_perf-plush-velvet_camel.jpg",
+        "data_price": 50,
+        "data_material": "Velvet",
+        "data_color": "Browns,Beiges"
+      },
+      {
+        "name": "Celadon",
+        "value": "103831",
+        "data_description": "Performance Plush Velvet",
+        "data_sku": "ROY-010",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665480_roy-010_perf-plush-velvet_celadon.jpg",
+        "data_price": 50,
+        "data_material": "Velvet",
+        "data_color": "Greens"
+      }
+    ],
+    "legs_type": [
+      {
+        "name": "Matte Black",
+        "data_description": "MIller Bench Leg Matte Black",
+        "data_sku": "Leg038-1",
+        "data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1624998895_screen-shot-2021-06-29-at-4.34.21-pm.png"
+      },
+      {
+        "name": "Matte Brass",
+        "data_description": "Miller Bench Leg in Matte Brass",
+        "data_sku": "Leg038-2",
+        "data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1624999089_screen-shot-2021-06-29-at-3.37.45-pm.png"
+      }
+    ]
+  },
   {
-		"name": "Rowan Bench",
+    "name": "Rowan Bench",
     "product_sku": "ROWN.FABRIC.BENCH.STNDRD",
-		"product_price": 495,
+    "product_price": 495,
     "brand_name": "Rowan",
-		"image_url": "https://content.cylindo.com/api/v2/4472/products/ROWN.FABRIC.BENCH.STNDRD/frames/1/ROWN.FABRIC.BENCH.STNDRD.JPG?background=FFFFFF&feature=COLOR:SE-166",
-		"material_type": [
-			{
-				"name": "Peacock",
-				"value": "103311",
-				"data_description": "Performance Velvet",
-				"data_sku": "SE-166",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665016_se-166_perf-velvet_peacock.jpg",
-				"data_price": 50,
-				"data_material": "Velvet",
-				"data_color": "Blues,Greens"
-			},
-			{
-				"name": "Coral",
-				"value": "103314",
-				"data_description": "Performance Velvet",
-				"data_sku": "SE-161",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
-				"data_price": 50,
-				"data_material": "Velvet",
-				"data_color": "Oranges,Pinks"
-			},
-			{
-				"name": "Rust",
-				"value": "103315",
-				"data_description": "Performance Velvet",
-				"data_sku": "SE-167",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
-				"data_price": 50,
-				"data_material": "Velvet",
-				"data_color": "Browns,Reds,Oranges"
-			},
-			{
-				"name": "Wine",
-				"value": "103389",
-				"data_description": "Performance Velvet",
-				"data_sku": "SE-171",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664736_se-171_perf-velvet_wine.jpg",
-				"data_price": 50,
-				"data_material": "Velvet",
-				"data_color": "Reds,Purples"
-			}
-		],
-		"legs_type": []
-	},
+		"product_desc":"The fully upholstered Rowan Bench lets your favorite fabrics do the talking. With a plush, rounded frame and minimal lines, it''s a bench that makes a modern statement. Rowan can easily be the center of attention, but effortlessly feels at home in any space.\nDesigner tip: Rowan''s open and sculptural design looks best in velvets and boucle.\nOur FSC® (Forest Stewardship Council®) Certified wood comes from responsibly managed forests that provide environmental, social, and economic benefits. FSC® provides a foundation for all forest management standards globally, including the FSC® US National Standard.",
+    "image_url": "https://content.cylindo.com/api/v2/4472/products/ROWN.FABRIC.BENCH.STNDRD/frames/1/ROWN.FABRIC.BENCH.STNDRD.JPG?background=FFFFFF&feature=COLOR:SE-166",
+    "material_type": [
+      {
+        "name": "Peacock",
+        "value": "103311",
+        "data_description": "Performance Velvet",
+        "data_sku": "SE-166",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665016_se-166_perf-velvet_peacock.jpg",
+        "data_price": 50,
+        "data_material": "Velvet",
+        "data_color": "Blues,Greens"
+      },
+      {
+        "name": "Coral",
+        "value": "103314",
+        "data_description": "Performance Velvet",
+        "data_sku": "SE-161",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+        "data_price": 50,
+        "data_material": "Velvet",
+        "data_color": "Oranges,Pinks"
+      },
+      {
+        "name": "Rust",
+        "value": "103315",
+        "data_description": "Performance Velvet",
+        "data_sku": "SE-167",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
+        "data_price": 50,
+        "data_material": "Velvet",
+        "data_color": "Browns,Reds,Oranges"
+      },
+      {
+        "name": "Wine",
+        "value": "103389",
+        "data_description": "Performance Velvet",
+        "data_sku": "SE-171",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664736_se-171_perf-velvet_wine.jpg",
+        "data_price": 50,
+        "data_material": "Velvet",
+        "data_color": "Reds,Purples"
+      }
+    ],
+    "legs_type": []
+  },
   {
-		"name": "Ines Bench",
+    "name": "Ines Bench",
     "product_sku": "INES.FABRIC.BENCH.STNDRD",
-		"product_price": 595,
+    "product_price": 595,
     "brand_name": "Ines",
-		"image_url": "https://content.cylindo.com/api/v2/4472/products/INES.FABRIC.BENCH.STNDRD/frames/1/INES.FABRIC.BENCH.STNDRD.JPG?background=FFFFFF&feature=COLOR:CU-155&feature=BELT:2210A",
-		"material_type": [
-			{
-				"name": "Chalk",
-				"value": "103624",
-				"data_description": "Heathered Weave",
-				"data_sku": "CU-155",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354292_cu-155_heathered-weave_chalk.jpg",
-				"data_price": 0,
-				"data_material": "Woven",
-				"data_color": "Creams"
-			},
-			{
-				"name": "Pebble",
-				"value": "103625",
-				"data_description": "Heathered Weave",
-				"data_sku": "CU-151",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635353977_cu-151_heathered-weave_pebble.jpg",
-				"data_price": 0,
-				"data_material": "Woven",
-				"data_color": "Greys,Creams"
-			},
-			{
-				"name": "Azure",
-				"value": "103627",
-				"data_description": "Heathered Weave",
-				"data_sku": "CU-152",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354063_cu-152_heathered-weave_azure.jpg",
-				"data_price": 0,
-				"data_material": "Woven",
-				"data_color": "Blues"
-			},
-			{
-				"name": "Coal",
-				"value": "103628",
-				"data_description": "Heathered Weave",
-				"data_sku": "CU-153",
-				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354151_cu-153_heathered-weave_coal.jpg",
-				"data_price": 0,
-				"data_material": "Woven",
-				"data_color": "Dark Greys"
-			}
-		],
-		"legs_type": []
-	}
+		"product_desc": "Minimalist style meets mixed materials. Ines'' simple wood frame is matched with a soft, upholstered cushion detailed with straps in Leather Palomino. Finding lightness in its elongated legs and streamlined design, Ines is a chic addition to any space.\nDesigner tip: Ines looks beautiful and neutral fabrics, especially textured weaves.",
+    "image_url": "https://content.cylindo.com/api/v2/4472/products/INES.FABRIC.BENCH.STNDRD/frames/1/INES.FABRIC.BENCH.STNDRD.JPG?background=FFFFFF&feature=COLOR:CU-155&feature=BELT:2210A",
+    "material_type": [
+      {
+        "name": "Chalk",
+        "value": "103624",
+        "data_description": "Heathered Weave",
+        "data_sku": "CU-155",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354292_cu-155_heathered-weave_chalk.jpg",
+        "data_price": 0,
+        "data_material": "Woven",
+        "data_color": "Creams"
+      },
+      {
+        "name": "Pebble",
+        "value": "103625",
+        "data_description": "Heathered Weave",
+        "data_sku": "CU-151",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635353977_cu-151_heathered-weave_pebble.jpg",
+        "data_price": 0,
+        "data_material": "Woven",
+        "data_color": "Greys,Creams"
+      },
+      {
+        "name": "Azure",
+        "value": "103627",
+        "data_description": "Heathered Weave",
+        "data_sku": "CU-152",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354063_cu-152_heathered-weave_azure.jpg",
+        "data_price": 0,
+        "data_material": "Woven",
+        "data_color": "Blues"
+      },
+      {
+        "name": "Coal",
+        "value": "103628",
+        "data_description": "Heathered Weave",
+        "data_sku": "CU-153",
+        "data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635354151_cu-153_heathered-weave_coal.jpg",
+        "data_price": 0,
+        "data_material": "Woven",
+        "data_color": "Dark Greys"
+      }
+    ],
+    "legs_type": []
+  }
 ]

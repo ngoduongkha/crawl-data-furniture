@@ -4,6 +4,7 @@
 		"product_sku": "SLON.FABRIC.OTTO.STNDRD",
 		"product_price": 495,
     "brand_name": "Sloan",
+		"product_desc": "Sloan strikes an ideal balance between sleek and soft. The custom ottoman reflects a modern influence, yet is approachable and livable. It''s no wonder it feels right in a variety of decors, whether modern or more traditional.",
 		"image_url": "https://content.cylindo.com/api/v2/4472/products/SLON.FABRIC.OTTO.STNDRD/frames/1/SLON.FABRIC.OTTO.STNDRD.JPG?background=FFFFFF&feature=COLOR:BI-132&feature=FINISH:LEG001-1",
 		"material_type": [
 			{
@@ -73,6 +74,7 @@
 		"product_sku": "TATM.LEATHR.UNIT.OTTOMAN",
 		"product_price": 1395,
     "brand_name": "Tatum",
+		"product_desc": "Thanks to its versatile, modular design, Tatum is customized to adapt to how you live - today and tomorrow. That means you can easily arrange (and rearrange) Tatum in as many configurations as you''d like with corner, armless, ottoman, and storage ottoman pieces. Tatum''s soft-but-structured design comes in the form of slimmed-down arms and added cushion softness in the back and seat, so you can sit comfortably no matter the configuration. With just four pieces and endless configuration possibilities, it''s safe to say that Tatum is truly our most customizable collection.",
 		"image_url": "https://content.cylindo.com/api/v2/4472/products/TATM.LEATHR.UNIT.OTTOMAN/frames/1/TATM.LEATHR.UNIT.OTTOMAN.JPG?background=FFFFFF&feature=COLOR:8519A&feature=STORAGE:CLOSE",
 		"material_type": [
 			{
@@ -123,6 +125,7 @@
 		"product_sku": "MXWL.FABRIC.OTTO.STNDRD",
 		"product_price": 495,
     "brand_name": "Maxwell",
+		"product_desc": "The inspiration for Maxwell \"was to take a traditional shape and make it fresh,\" says Apartment Therapy founder Maxwell Ryan, who co-created the custom ottoman with us. That means you''ll enjoy a shape that''s \"comfy, cozy, and approachable.\" At the same time, it remains light and airy thanks to a thinner frame rail and turned leg.",
 		"image_url": "https://content.cylindo.com/api/v2/4472/products/MXWL.FABRIC.OTTO.STNDRD/frames/1/MXWL.FABRIC.OTTO.STNDRD.JPG?background=FFFFFF&feature=COLOR:AK-618-16&feature=FINISH:LEG014-3",
 		"material_type": [
 			{
@@ -192,6 +195,7 @@
 		"product_sku": "COLT.FABRIC.OTTO.STNDRD",
 		"product_price": 195,
     "brand_name": "Colten",
+		"product_desc":"Colten''s rounded, clean shape makes for an understated accent piece that looks right at home anywhere.",
 		"image_url": "https://content.cylindo.com/api/v2/4472/products/COLT.FABRIC.OTTO.STNDRD/frames/1/COLT.FABRIC.OTTO.STNDRD.JPG?background=FFFFFF&feature=COLOR:SE-170&feature=SIZE:20",
 		"material_type": [
 			{

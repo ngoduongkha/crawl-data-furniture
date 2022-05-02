@@ -10,7 +10,7 @@ String.prototype.replaceAt = function (index, replacement) {
 };
 
 function queryBrand() {
-  let query = `INSERT INTO "brand"(brand_id, brand_name)\nVALUES`;
+  let query = `INSERT INTO "brands"(brand_id, brand_name)\nVALUES`;
   const id = "nextval('brand_brand_id_seq'::regclass)";
 
   query = query.concat(`\n\t(${id}, 'Sloan'),`);
@@ -29,7 +29,7 @@ function queryBrand() {
 }
 
 function queryCategory() {
-  let query = `INSERT INTO "category"(category_id, category_name, parent_id)\nVALUES`;
+  let query = `INSERT INTO "categories"(category_id, category_name, parent_id)\nVALUES`;
   const id = "nextval('category_category_id_seq'::regclass)";
 
   query = query.concat(`\n\t(${id}, 'Phòng khách', null),`);
@@ -41,13 +41,13 @@ function queryCategory() {
   query = query.concat(`\n\t(${id}, 'Sofa', 6),`);
   query = query.concat(`\n\t(${id}, 'Loveseat', 6),`);
   query = query.concat(`\n\t(${id}, 'Sleeper Sofa', 6),`);
-  query = query.concat(`\n\t(${id},  'Ottoman', 1),`);
-  query = query.concat(`\n\t(${id},  'Accent Ottoman', 10),`);
-  query = query.concat(`\n\t(${id},  'Stool Ottoman', 10),`);
-  query = query.concat(`\n\t(${id},  'Bench', 1),`);
-  query = query.concat(`\n\t(${id},  'Accent Bench', 13),`);
-  query = query.concat(`\n\t(${id},  'Chair', 1),`);
-  query = query.concat(`\n\t(${id},  'Accent Chair', 15),`);
+  query = query.concat(`\n\t(${id}, 'Ottoman', 1),`);
+  query = query.concat(`\n\t(${id}, 'Accent Ottoman', 10),`);
+  query = query.concat(`\n\t(${id}, 'Stool Ottoman', 10),`);
+  query = query.concat(`\n\t(${id}, 'Bench', 1),`);
+  query = query.concat(`\n\t(${id}, 'Accent Bench', 13),`);
+  query = query.concat(`\n\t(${id}, 'Chair', 1),`);
+  query = query.concat(`\n\t(${id}, 'Accent Chair', 15),`);
 
   query = query.replaceAt(query.lastIndexOf(','), ';\n');
 
@@ -55,14 +55,15 @@ function queryCategory() {
 }
 
 function queryProduct(json, category_id_list, brand_id_list) {
-  let query = `INSERT INTO "product"(product_id, product_name, brand_id, category_id, image)\nVALUES`;
+  let query = `INSERT INTO "products"(product_id, product_name, product_desc, brand_id, category_id, image)\nVALUES`;
   const id = "nextval('product_product_id_seq'::regclass)";
   const list_product = Array.from(json);
 
   for (let index = 0; index < list_product.length; index++) {
     const element = list_product[index];
+
     query = query.concat(
-      `\n\t(${id}, '${element['name']}', ${brand_id_list[index]}, ${category_id_list[index]}, '${element['image_url']}'),`
+      `\n\t(${id}, '${element['name']}', '${element['product_desc']}', ${brand_id_list[index]}, ${category_id_list[index]}, '${element['image_url']}'),`
     );
   }
 
@@ -86,8 +87,8 @@ function queryOption(category_id_list) {
 }
 
 function queryProductvariant(json) {
-  let query = `INSERT INTO "product_variant"(variant_id, product_id, image, price, quantity, sku)\nVALUES`;
-  const id = "nextval('product_variant_variant_id_seq'::regclass)";
+  let query = `INSERT INTO "variants"(variant_id, product_id, image, price, quantity, sku)\nVALUES`;
+  const id = "nextval('variants_variant_id_seq'::regclass)";
 
   for (let i = 0; i < json.length; i++) {
     const json_product = json[i];
@@ -243,7 +244,7 @@ let product_count = 0;
 var variant_count = 0;
 var option_count = 0;
 
-fs.readFile('./sectionals/sectionals-final.json', 'utf8', (err, data) => {
+fs.readFile('./sectionals/sectionals-final.json', 'utf8', async (err, data) => {
   if (err) {
     console.error(err);
     return;
@@ -260,12 +261,13 @@ fs.readFile('./sectionals/sectionals-final.json', 'utf8', (err, data) => {
 
   product_count = product_count + Array.from(json).length;
 
-  fs.writeFile('query.txt', query, { flag: 'w+' }, (err) => {
-    if (err) console.log(err);
+  fs.writeFile('query.sql', query, { flag: 'w+' }, (err) => {
+    if (err)
+      console.log(err);
   });
 });
 
-fs.readFile('./sofas/sofas-final.json', 'utf8', (err, data) => {
+fs.readFile('./sofas/sofas-final.json', async (err, data) => {
   if (err) {
     console.error(err);
     return;
@@ -279,12 +281,12 @@ fs.readFile('./sofas/sofas-final.json', 'utf8', (err, data) => {
 
   product_count = product_count + Array.from(json).length;
 
-  fs.writeFile('query.txt', query, { flag: 'a' }, (err) => {
+  fs.writeFile('query.sql', query, { flag: 'a' }, (err) => {
     if (err) console.log(err);
   });
 });
 
-fs.readFile('./chairs/chairs-final.json', 'utf8', (err, data) => {
+fs.readFile('./chairs/chairs-final.json', 'utf8', async (err, data) => {
   if (err) {
     console.error(err);
     return;
@@ -298,12 +300,12 @@ fs.readFile('./chairs/chairs-final.json', 'utf8', (err, data) => {
 
   product_count = product_count + Array.from(json).length;
 
-  fs.writeFile('query.txt', query, { flag: 'a' }, (err) => {
+  fs.writeFile('query.sql', query, { flag: 'a' }, (err) => {
     if (err) console.log(err);
   });
 });
 
-fs.readFile('./ottomans/ottomans-final.json', 'utf8', (err, data) => {
+fs.readFile('./ottomans/ottomans-final.json', 'utf8', async (err, data) => {
   if (err) {
     console.error(err);
     return;
@@ -317,12 +319,12 @@ fs.readFile('./ottomans/ottomans-final.json', 'utf8', (err, data) => {
 
   product_count = product_count + Array.from(json).length;
 
-  fs.writeFile('query.txt', query, { flag: 'a' }, (err) => {
+  fs.writeFile('query.sql', query, { flag: 'a' }, (err) => {
     if (err) console.log(err);
   });
 });
 
-fs.readFile('./benches/benches-final.json', 'utf8', (err, data) => {
+fs.readFile('./benches/benches-final.json', 'utf8', async (err, data) => {
   if (err) {
     console.error(err);
     return;
@@ -336,7 +338,7 @@ fs.readFile('./benches/benches-final.json', 'utf8', (err, data) => {
 
   product_count = product_count + Array.from(json).length;
 
-  fs.writeFile('query.txt', query, { flag: 'a' }, (err) => {
+  fs.writeFile('query.sql', query, { flag: 'a' }, (err) => {
     if (err) console.log(err);
   });
 });
