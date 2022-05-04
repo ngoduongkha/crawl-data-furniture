@@ -10,7 +10,7 @@ String.prototype.replaceAt = function (index, replacement) {
 };
 
 function queryBrand() {
-  let query = `INSERT INTO "brands"(brand_id, brand_name)\nVALUES`;
+  let query = `INSERT INTO "brand"(brand_id, brand_name)\nVALUES`;
   const id = "nextval('brand_brand_id_seq'::regclass)";
 
   query = query.concat(`\n\t(${id}, 'Sloan'),`);
@@ -29,7 +29,7 @@ function queryBrand() {
 }
 
 function queryCategory() {
-  let query = `INSERT INTO "categories"(category_id, category_name, parent_id)\nVALUES`;
+  let query = `INSERT INTO "category"(category_id, category_name, parent_id)\nVALUES`;
   const id = "nextval('category_category_id_seq'::regclass)";
 
   query = query.concat(`\n\t(${id}, 'Phòng khách', null),`);
@@ -55,7 +55,7 @@ function queryCategory() {
 }
 
 function queryProduct(json, category_id_list, brand_id_list) {
-  let query = `INSERT INTO "products"(product_id, product_name, product_desc, brand_id, category_id, image)\nVALUES`;
+  let query = `INSERT INTO "product"(product_id, product_name, product_desc, brand_id, category_id, image)\nVALUES`;
   const id = "nextval('product_product_id_seq'::regclass)";
   const list_product = Array.from(json);
 
@@ -87,8 +87,8 @@ function queryOption(category_id_list) {
 }
 
 function queryProductvariant(json) {
-  let query = `INSERT INTO "variants"(variant_id, product_id, image, price, quantity, sku)\nVALUES`;
-  const id = "nextval('variants_variant_id_seq'::regclass)";
+  let query = `INSERT INTO "variant"(variant_id, product_id, image, price, quantity, sku)\nVALUES`;
+  const id = "nextval('variant_variant_id_seq'::regclass)";
 
   for (let i = 0; i < json.length; i++) {
     const json_product = json[i];
@@ -190,7 +190,7 @@ function queryProductvariant(json) {
 }
 
 function queryvariantValue(json) {
-  let query = `INSERT INTO "variant_value"(option_id, variant_id, option_value, option_image)\nVALUES`;
+  let query = `INSERT INTO "value"(option_id, variant_id, option_value, option_image)\nVALUES`;
   let list_product = Array.from(json);
 
   for (let i = 0; i < list_product.length; i++) {
