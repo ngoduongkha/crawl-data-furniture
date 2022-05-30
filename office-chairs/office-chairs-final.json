@@ -1,0 +1,404 @@
+[
+	{
+		"name": "Leather Metal Framed Upholstered Chair",
+		"product_sku": "HLIS.LEATHR.DINING.CHAR",
+    "product_price": 595,
+    "brand_name": "Hollis",
+    "product_desc": "Modern design meets Hollywood glam. Inspired by art deco design, the Hollis Chair is an undeniable statement piece. With a half-moon back, stylish curves, and sleek metal legs, Hollis is sure to dress up your dining space.\nDesigner tip: Hollis'' modern open frame design pairs beautifully with other softer, curved back silhouettes.",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/HLIS.LEATHR.DINING.CHAR/frames/1/HLIS.LEATHR.DINING.CHAR.JPG?background=FFFFFF&feature=COLOR:LTHR-02&feature=FINISH:LEG045-2",
+		"material_type": [
+			{
+				"name": "Fossil",
+				"value": "138883",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "LTHR-02",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460822_lthr-02_pigment-dyed-leather_fossil.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Palomino",
+				"value": "138887",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "2210A",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282325_2210a_leather_palomino.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Pecan",
+				"value": "138888",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "8519A",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282459_8519a_leather_pecan.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Cognac",
+				"value": "155614",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "LTHR-01",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460763_lthr-01_pigment-dyed-leather_cognac.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Matte Black",
+				"data_description": "Matte Black",
+				"data_sku": "Leg045-1",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1625238835_screen-shot-2021-07-02-at-11.13.12-am.png"
+			},
+			{
+				"name": "Matte Brass",
+				"data_description": "Matte Brass",
+				"data_sku": "Leg045-2",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1625238894_screen-shot-2021-07-02-at-11.12.35-am.png"
+			}
+		]
+	},
+	{
+		"name": "Wood Framed Upholstered Chair",
+		"product_sku": "RUE.FABRIC.DINING.CHAR.ARMLSS",
+    "product_price": 545,
+    "brand_name": "Rue",
+    "product_desc": "A master of mixed materials, the Rue Chair balances a cane back with rich wood and a cushy upholstered seat, making it a must-have in any dining or living space.\nOur FSC® (Forest Stewardship Council®) Certified wood comes from responsibly managed forests that provide environmental, social, and economic benefits. FSC® provides a foundation for all forest management standards globally, including the FSC® US National Standard.\nDimensions: 21.5\"L, 22\"D, 32\"H",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/RUE.FABRIC.DINING.CHAR.ARMLSS/frames/1/RUE.FABRIC.DINING.CHAR.ARMLSS.JPG?background=FFFFFF&feature=COLOR:PW-004&feature=FINISH:LEG054-2",
+		"material_type": [
+			{
+				"name": "Oat",
+				"value": "182650",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458349_pw-004_perf-pebble-knit_oat.jpg",
+				"data_price": 20,
+				"data_material": "Woven",
+				"data_color": "Creams"
+			},
+			{
+				"name": "Coconut",
+				"value": "194740",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-007",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1649874576_performance_pebble_knit-coconut.jpg",
+				"data_price": 20,
+				"data_material": "Knit",
+				"data_color": "All Colors,Creams"
+			},
+			{
+				"name": "Haze",
+				"value": "182741",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635275745_pw-006_perf-pebble-knit_haze.jpg",
+				"data_price": 20,
+				"data_material": "Woven",
+				"data_color": "Greys,All Colors"
+			},
+			{
+				"name": "Dove",
+				"value": "182695",
+				"data_description": "Performance Pebble Knit",
+				"data_sku": "PW-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635458254_pw-001_perf-pebble-knit_dove.jpg",
+				"data_price": 20,
+				"data_material": "Woven",
+				"data_color": "Greys"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "Walnut Stain Ash",
+				"data_description": "White Wash Ash",
+				"data_sku": "Leg054-1",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1626879017_screen-shot-2021-06-29-at-6.51.20-pm.png"
+			},
+			{
+				"name": "Black",
+				"data_description": "Black",
+				"data_sku": "Leg054-2",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1625240391_screen-shot-2021-06-29-at-6.53.11-pm.png"
+			}
+		]
+	},
+	{
+		"name": "Upholstered Armless Chair",
+		"product_sku": "MNTE.LEATHR.DINING.CHAR",
+    "product_price": 595,
+    "brand_name": "Monte",
+    "product_desc": "A fresh take on a classic silhouette, Monte''s wood frame and subtly curved legs give this otherwise minimal shape an interesting touch. Monte''s tall back height, matched with an upholstered seat and back, make for a comfortable seat that''s just right for all-night dining.\nOur FSC® (Forest Stewardship Council®) Certified wood comes from responsibly managed forests that provide environmental, social, and economic benefits. FSC® provides a foundation for all forest management standards globally, including the FSC® US National Standard.",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/MNTE.LEATHR.DINING.CHAR/frames/1/MNTE.LEATHR.DINING.CHAR.JPG?background=FFFFFF&feature=COLOR:LTHR-02&feature=FINISH:LEG073-2",
+		"material_type": [
+			{
+				"name": "Fossil",
+				"value": "208802",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "LTHR-02",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460822_lthr-02_pigment-dyed-leather_fossil.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Palomino",
+				"value": "208807",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "2210A",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282325_2210a_leather_palomino.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Pecan",
+				"value": "208806",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "8519A",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282459_8519a_leather_pecan.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Cognac",
+				"value": "208800",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "LTHR-01",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460763_lthr-01_pigment-dyed-leather_cognac.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "White Wash",
+				"data_description": "White Wash",
+				"data_sku": "Leg073-1",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652739104_screen-shot-2022-05-16-at-6.09.47-pm.png"
+			},
+			{
+				"name": "Walnut",
+				"data_description": "Walnut",
+				"data_sku": "Leg073-2",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652739208_screen-shot-2022-05-16-at-6.09.58-pm.png"
+			},
+			{
+				"name": "Black",
+				"data_description": "Black",
+				"data_sku": "Leg073-3",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652739358_screen-shot-2022-05-16-at-6.10.07-pm.png"
+			}
+		]
+	},
+	{
+		"name": "Upholstered Head of Table Chair",
+		"product_sku": "MNTE.FABRIC.DINING.CHAR.HEAD",
+    "product_price": 595,
+    "brand_name": "Monte",
+    "product_desc": "A fresh take on a classic silhouette, Monte''s wood frame and subtly curved legs give this otherwise minimal shape an interesting touch. Monte''s tall back height and elevated arms, matched with an upholstered seat and back, make for a comfortable seat that''s just right for all-night dining.\nOur FSC® (Forest Stewardship Council®) Certified wood comes from responsibly managed forests that provide environmental, social, and economic benefits. FSC® provides a foundation for all forest management standards globally, including the FSC® US National Standard.",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/MNTE.FABRIC.DINING.CHAR.HEAD/frames/1/MNTE.FABRIC.DINING.CHAR.HEAD.JPG?background=FFFFFF&feature=COLOR:HRT-025&feature=FINISH:LEG074-2",
+		"material_type": [
+			{
+				"name": "Raisin",
+				"value": "208884",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-025",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665836_hrt-025_perf-brushed-knit_raisin.jpg",
+				"data_price": 20,
+				"data_material": "Texture",
+				"data_color": "Purples"
+			},
+			{
+				"name": "Army",
+				"value": "208915",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-034",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665782_hrt-034_perf-brushed-knit_army.jpg",
+				"data_price": 20,
+				"data_material": "Texture",
+				"data_color": "Greens,All Colors"
+			},
+			{
+				"name": "Dusk",
+				"value": "208831",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-027",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665809_hrt-027_perf-brushed-knit_dusk.jpg",
+				"data_price": 20,
+				"data_material": "Texture",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Stormy",
+				"value": "208906",
+				"data_description": "Performance Brushed Knit",
+				"data_sku": "HRT-006",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636665862_hrt-006_perf-brushed-knit_stormy.jpg",
+				"data_price": 20,
+				"data_material": "Texture",
+				"data_color": "Greys,Dark Greys,All Colors"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "White Wash",
+				"data_description": "White Wash",
+				"data_sku": "Leg074-1",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652739844_screen-shot-2022-05-16-at-6.09.47-pm.png"
+			},
+			{
+				"name": "Walnut",
+				"data_description": "Walnut",
+				"data_sku": "Leg074-2",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652741662_screen-shot-2022-05-16-at-6.09.58-pm.png"
+			},
+			{
+				"name": "Black",
+				"data_description": "Black",
+				"data_sku": "Leg074-3",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652741874_screen-shot-2022-05-16-at-6.10.07-pm.png"
+			}
+		]
+	},
+	{
+		"name": "Leather Upholstered Head of Table Chair",
+		"product_sku": "MNTE.LEATHR.DINING.CHAR.HEAD",
+    "product_price": 795,
+    "brand_name": "Monte",
+    "product_desc": "A fresh take on a classic silhouette, Monte''s wood frame and subtly curved legs give this otherwise minimal shape an interesting touch. Monte''s tall back height and elevated arms, matched with an upholstered seat and back, make for a comfortable seat that''s just right for all-night dining.\nOur FSC® (Forest Stewardship Council®) Certified wood comes from responsibly managed forests that provide environmental, social, and economic benefits. FSC® provides a foundation for all forest management standards globally, including the FSC® US National Standard.",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/MNTE.LEATHR.DINING.CHAR.HEAD/frames/1/MNTE.LEATHR.DINING.CHAR.HEAD.JPG?background=FFFFFF&feature=COLOR:LTHR-02&feature=FINISH:LEG074-2",
+		"material_type": [
+			{
+				"name": "Fossil",
+				"value": "209079",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "LTHR-02",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460822_lthr-02_pigment-dyed-leather_fossil.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Greys"
+			},
+			{
+				"name": "Palomino",
+				"value": "209076",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "2210A",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282325_2210a_leather_palomino.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Pecan",
+				"value": "209077",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "8519A",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635282459_8519a_leather_pecan.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			},
+			{
+				"name": "Cognac",
+				"value": "209078",
+				"data_description": "Pigment-Dyed Leather",
+				"data_sku": "LTHR-01",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635460763_lthr-01_pigment-dyed-leather_cognac.jpg",
+				"data_price": 0,
+				"data_material": "Leather",
+				"data_color": "Browns"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "White Wash",
+				"data_description": "White Wash",
+				"data_sku": "Leg074-1",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652739844_screen-shot-2022-05-16-at-6.09.47-pm.png"
+			},
+			{
+				"name": "Walnut",
+				"data_description": "Walnut",
+				"data_sku": "Leg074-2",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652741662_screen-shot-2022-05-16-at-6.09.58-pm.png"
+			},
+			{
+				"name": "Black",
+				"data_description": "Black",
+				"data_sku": "Leg074-3",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652741874_screen-shot-2022-05-16-at-6.10.07-pm.png"
+			}
+		]
+	},
+	{
+		"name": "Wood Framed Upholstered Chair",
+		"product_sku": "JNSN.FABRIC.DINING.CHAR",
+    "product_price": 395,
+    "brand_name": "Jensen",
+    "product_desc": "With a lean silhouette and sculptural design, Jensen looks structured but focuses on comfort. Its wood frame, matched with an upholstered back and seat cushion, give this modern chair an airy feel—especially when it comes to Jensen''s slightly angled legs.\nOur FSC® (Forest Stewardship Council®) Certified wood comes from responsibly managed forests that provide environmental, social, and economic benefits. FSC® provides a foundation for all forest management standards globally, including the FSC® US National Standard.",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/JNSN.FABRIC.DINING.CHAR/frames/1/JNSN.FABRIC.DINING.CHAR.JPG?background=FFFFFF&feature=COLOR:HS-002&feature=FINISH:LEG078-2",
+		"material_type": [
+			{
+				"name": "Denim",
+				"value": "209122",
+				"data_description": "Performance Hunt Stripe",
+				"data_sku": "HS-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635963343_hs-002_performance-hunt-stripe_denim.jpg",
+				"data_price": 40,
+				"data_material": "Woven",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Raven",
+				"value": "209180",
+				"data_description": "Performance Hunt Stripe",
+				"data_sku": "HS-001",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635962814_hs-001_performance-hunt-stripe_raven.jpg",
+				"data_price": 40,
+				"data_material": "Woven",
+				"data_color": "Dark Greys,All Colors,Blacks"
+			},
+			{
+				"name": "Coral",
+				"value": "209118",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 20,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			},
+			{
+				"name": "Terracotta",
+				"value": "214326",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-175",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1649884751_performance_velvet-terracotta.jpg",
+				"data_price": 20,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,All Colors,Oranges"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "White Wash",
+				"data_description": "White Wash",
+				"data_sku": "Leg078-1",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652796576_screen-shot-2022-05-17-at-10.08.21-am.png"
+			},
+			{
+				"name": "Walnut",
+				"data_description": "Walnut",
+				"data_sku": "Leg078-2",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652796685_screen-shot-2022-05-17-at-10.08.05-am.png"
+			}
+		]
+	}
+]

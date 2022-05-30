@@ -1,0 +1,438 @@
+[
+	{
+		"name": " Monte Velvet Color Block Armless Chair",
+		"data_sku": "var _vwo_custom_magento={\"page_type\":\"product\",\"product_type\":\"simple\",\"product_sku\":\"MNTE.CLRBLK.DINING.CHAR\",\"product_name\":\"Monte Armless Chair\",\"product_price\":470,\"category_name\":\"Dining Seating\"};",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/MNTE.FABMIX.DINING.CHAR/frames/1/MNTE.FABMIX.DINING.CHAR.JPG?background=FFFFFF&feature=COLOR:SE-167&feature=FINISH:LEG073-1&feature=SECONDARY%20FABRIC:SE-161",
+		"material_type": [
+			{
+				"name": "Rust",
+				"value": "217407",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-167",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,Oranges"
+			},
+			{
+				"name": "Coral",
+				"value": "217412",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			},
+			{
+				"name": "Terracotta",
+				"value": "219562",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-175",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1649884751_performance_velvet-terracotta.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,All Colors,Oranges"
+			},
+			{
+				"name": "Wine",
+				"value": "217411",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-171",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664736_se-171_perf-velvet_wine.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Reds,Purples"
+			}
+		],
+		"material_type_secondary": [
+			{
+				"name": "Rust",
+				"value": "217437",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-167",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,Oranges"
+			},
+			{
+				"name": "Coral",
+				"value": "217438",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			},
+			{
+				"name": "Terracotta",
+				"value": "219565",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-175",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1649884751_performance_velvet-terracotta.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,All Colors,Oranges"
+			},
+			{
+				"name": "Wine",
+				"value": "217429",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-171",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664736_se-171_perf-velvet_wine.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Reds,Purples"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "White Wash",
+				"data_description": "White Wash",
+				"data_sku": "Leg073-1",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652739104_screen-shot-2022-05-16-at-6.09.47-pm.png"
+			},
+			{
+				"name": "Walnut",
+				"data_description": "Walnut",
+				"data_sku": "Leg073-2",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652739208_screen-shot-2022-05-16-at-6.09.58-pm.png"
+			},
+			{
+				"name": "Black",
+				"data_description": "Black",
+				"data_sku": "Leg073-3",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652739358_screen-shot-2022-05-16-at-6.10.07-pm.png"
+			}
+		]
+	},
+	{
+		"name": " Monte Velvet Color Block Head of Table Chair",
+		"data_sku": "var _vwo_custom_magento={\"page_type\":\"product\",\"product_type\":\"simple\",\"product_sku\":\"MNTE.CLRBLK.DINING.CHAR.HEAD\",\"product_name\":\"Monte Head of Table Chair\",\"product_price\":670,\"category_name\":\"Dining Seating\"};",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/MNTE.FABMIX.DINING.CHAR.HEAD/frames/1/MNTE.FABMIX.DINING.CHAR.HEAD.JPG?background=FFFFFF&feature=COLOR:SE-167&feature=FINISH:LEG074-1&feature=SECONDARY%20FABRIC:SE-161",
+		"material_type": [
+			{
+				"name": "Rust",
+				"value": "217456",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-167",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,Oranges"
+			},
+			{
+				"name": "Coral",
+				"value": "217461",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			},
+			{
+				"name": "Terracotta",
+				"value": "219556",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-175",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1649884751_performance_velvet-terracotta.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,All Colors,Oranges"
+			},
+			{
+				"name": "Wine",
+				"value": "217460",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-171",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664736_se-171_perf-velvet_wine.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Reds,Purples"
+			}
+		],
+		"material_type_secondary": [
+			{
+				"name": "Rust",
+				"value": "217486",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-167",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,Oranges"
+			},
+			{
+				"name": "Coral",
+				"value": "217487",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			},
+			{
+				"name": "Terracotta",
+				"value": "219559",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-175",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1649884751_performance_velvet-terracotta.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,All Colors,Oranges"
+			},
+			{
+				"name": "Wine",
+				"value": "217478",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-171",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664736_se-171_perf-velvet_wine.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Reds,Purples"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "White Wash",
+				"data_description": "White Wash",
+				"data_sku": "Leg074-1",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652739844_screen-shot-2022-05-16-at-6.09.47-pm.png"
+			},
+			{
+				"name": "Walnut",
+				"data_description": "Walnut",
+				"data_sku": "Leg074-2",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652741662_screen-shot-2022-05-16-at-6.09.58-pm.png"
+			},
+			{
+				"name": "Black",
+				"data_description": "Black",
+				"data_sku": "Leg074-3",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652741874_screen-shot-2022-05-16-at-6.10.07-pm.png"
+			}
+		]
+	},
+	{
+		"name": " Monte Velvet Color Block Counter Stool",
+		"data_sku": "var _vwo_custom_magento={\"page_type\":\"product\",\"product_type\":\"simple\",\"product_sku\":\"MNTE.CLRBLK.DINING.STOOL\",\"product_name\":\"Monte Counter Stool\",\"product_price\":570,\"category_name\":\"Dining Seating\"};",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/MNTE.FABMIX.DINING.STOOL/frames/1/MNTE.FABMIX.DINING.STOOL.JPG?background=FFFFFF&feature=COLOR:SE-179&feature=FINISH:LEG075-2&feature=SECONDARY%20FABRIC:SE-178",
+		"material_type": [
+			{
+				"name": "Royal",
+				"value": "219552",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-179",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1649885812_performance_velvet-royal.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Coral",
+				"value": "217510",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			},
+			{
+				"name": "Terracotta",
+				"value": "219550",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-175",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1649884751_performance_velvet-terracotta.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,All Colors,Oranges"
+			},
+			{
+				"name": "Rust",
+				"value": "217505",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-167",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,Oranges"
+			}
+		],
+		"material_type_secondary": [
+			{
+				"name": "Royal",
+				"value": "219555",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-179",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1649885812_performance_velvet-royal.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Coral",
+				"value": "217536",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			},
+			{
+				"name": "Terracotta",
+				"value": "219553",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-175",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1649884751_performance_velvet-terracotta.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,All Colors,Oranges"
+			},
+			{
+				"name": "Rust",
+				"value": "217535",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-167",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,Oranges"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "White Wash",
+				"data_description": "White Wash",
+				"data_sku": "Leg075-1",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652742071_screen-shot-2022-05-16-at-6.09.47-pm.png"
+			},
+			{
+				"name": "Walnut",
+				"data_description": "Walnut",
+				"data_sku": "Leg075-2",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652742206_screen-shot-2022-05-16-at-6.09.58-pm.png"
+			},
+			{
+				"name": "Black",
+				"data_description": "Black",
+				"data_sku": "Leg075-3",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652742273_screen-shot-2022-05-16-at-6.10.07-pm.png"
+			}
+		]
+	},
+	{
+		"name": " Monte Velvet and Pattern Armless Chair",
+		"data_sku": "var _vwo_custom_magento={\"page_type\":\"product\",\"product_type\":\"simple\",\"product_sku\":\"MNTE.FABMIX.DINING.CHAR\",\"product_name\":\"Monte Armless Chair\",\"product_price\":470,\"category_name\":\"Dining Seating\"};",
+		"image_url": "https://content.cylindo.com/api/v2/4472/products/MNTE.FABMIX.DINING.CHAR/frames/1/MNTE.FABMIX.DINING.CHAR.JPG?background=FFFFFF&feature=COLOR:SE-170&feature=FINISH:LEG073-1&feature=SECONDARY%20FABRIC:WH-004",
+		"material_type": [
+			{
+				"name": "Marigold",
+				"value": "217561",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-170",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664921_se-170_perf-velvet_marigold.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Yellows,Oranges"
+			},
+			{
+				"name": "Coral",
+				"value": "217559",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-161",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664642_se-161_perf-velvet_coral.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Oranges,Pinks"
+			},
+			{
+				"name": "Terracotta",
+				"value": "219574",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-175",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1649884751_performance_velvet-terracotta.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,All Colors,Oranges"
+			},
+			{
+				"name": "Rust",
+				"value": "217558",
+				"data_description": "Performance Velvet",
+				"data_sku": "SE-167",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1636664691_se-167_perf-velvet_rust.jpg",
+				"data_price": 0,
+				"data_material": "Velvet",
+				"data_color": "Browns,Reds,Oranges"
+			}
+		],
+		"material_type_secondary": [
+			{
+				"name": "Copper",
+				"value": "217571",
+				"data_description": "Performance Blakely",
+				"data_sku": "WH-002",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635278151_wh-002_performance-blakely_copper.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Browns,Reds,All Colors,Oranges"
+			},
+			{
+				"name": "Ginger",
+				"value": "217573",
+				"data_description": "Performance Blakely",
+				"data_sku": "WH-004",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635279597_wh-004_performance-blakely_ginger.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Browns,All Colors,Yellows,Oranges"
+			},
+			{
+				"name": "Atlantic",
+				"value": "217572",
+				"data_description": "Performance Blakely",
+				"data_sku": "WH-003",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635279466_wh-003_performance-blakely_atlantic.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Blues,All Colors"
+			},
+			{
+				"name": "Obsidian",
+				"value": "217574",
+				"data_description": "Performance Blakely",
+				"data_sku": "WH-005",
+				"data_imagesrc": "https://media.interiordefine.com/media//swatches/thumbnail/1635279746_wh-005_performance-blakely_obsidian.jpg",
+				"data_price": 0,
+				"data_material": "Woven",
+				"data_color": "Greys,Dark Greys,All Colors,Blacks"
+			}
+		],
+		"legs_type": [
+			{
+				"name": "White Wash",
+				"data_description": "White Wash",
+				"data_sku": "Leg073-1",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652739104_screen-shot-2022-05-16-at-6.09.47-pm.png"
+			},
+			{
+				"name": "Walnut",
+				"data_description": "Walnut",
+				"data_sku": "Leg073-2",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652739208_screen-shot-2022-05-16-at-6.09.58-pm.png"
+			},
+			{
+				"name": "Black",
+				"data_description": "Black",
+				"data_sku": "Leg073-3",
+				"data_imagesrc": "https://media.interiordefine.com/media/legs/thumbnail/1652739358_screen-shot-2022-05-16-at-6.10.07-pm.png"
+			}
+		]
+	}
+]

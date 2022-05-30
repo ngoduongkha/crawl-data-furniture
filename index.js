@@ -1,8 +1,8 @@
 const fs = require('fs');
 const puppeter = require('puppeteer');
-const url = 'https://www.interiordefine.com/shop/custom-ottomans';
-const path = './ottomans/';
-const fileName = 'ottomans';
+const url = 'https://www.interiordefine.com/shop/office-chairs';
+const path = './office-chairs/';
+const fileName = 'office-chairs';
 
 function saveObj(fileName, data) {
   fs.writeFile(
@@ -31,7 +31,7 @@ async function main() {
       )
     );
 
-    const srcSetAttribute = items.slice(8, 9).map((item) => {
+    const srcSetAttribute = items.slice(0, 6).map((item) => {
       const gethref = item
         .querySelector('a.category--product-lnk')
         .getAttribute('href');
